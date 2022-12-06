@@ -1,0 +1,665 @@
+UserID,SegmentID,Start,End,# Interactions,# Documents Opened,Opened Documents,OpenDuration,# Documents Read,Read Documents,ReadDuration,# Documents Dragged,Dragged Documents,DraggingDuration,Most Read Document,# Highlighted,Highlighted Words,HighlightingDuration,# Searched,Searched Words,SearchDuration
+1,1,0,98.7,2,1,['TerroristActivity 52'],363.9,0,[],0,0,[],0,NA,0,[],0,1,['terrorist'],1
+1,2,98.7,266.2,4,1,['TerroristActivity 65'],49.9,3,['TerroristActivity 52'],128.3,0,[],0,TerroristActivity 52,0,[],0,0,[],0
+1,3,266.2,319.4,1,1,['TerroristActivity 98'],127.3,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,4,319.4,361.5,4,1,['TerroristActivity 103'],86.7,1,['TerroristActivity 98'],0.7,2,['TerroristActivity 98'],37.7,TerroristActivity 98,0,[],0,0,[],0
+1,5,361.5,458.9,15,1,['TerroristActivity 65'],17.5,12,"['TerroristActivity 103' 'TerroristActivity 52' 'TerroristActivity 65'
+'TerroristActivity 98']",53.8,1,['TerroristActivity 52'],2.8,TerroristActivity 98,0,[],0,1,['Vastopolis'],1
+1,6,458.9,501,4,1,['TerroristActivity 15'],125.4,0,[],0,3,['TerroristActivity 1' 'TerroristActivity 52'],7.6,NA,0,[],0,0,[],0
+1,7,501,815,16,3,['TerroristActivity 46' 'TerroristActivity 51' 'TerroristActivity 55'],195.4,5,['TerroristActivity 15' 'TerroristActivity 51' 'TerroristActivity 55'],118.2,6,"['TerroristActivity 1' 'TerroristActivity 15' 'TerroristActivity 46'
+'TerroristActivity 51']",10.2,TerroristActivity 15,2,"['But even the tightest U.S. security is weaker than those at major airports like Vastopolis Airport for example', 'Johnetta Seaton']",2,0,[],0
+1,8,815,850.5,3,0,[],0,2,['TerroristActivity 55'],34.5,0,[],0,TerroristActivity 55,1,"[""That's 44 inches short of the world record, held by 30-year-old Raquel Roy of the U.S., who is also a member of the American squad in Atlanta. A silver medalist at the Seoul Games in 1988, Mr. Roy won the shot put in the Games trials and is probably competing in his last Games, a factor that could produce a heated competition""]",1,0,[],0
+1,9,850.5,858.5,2,1,['TerroristActivity 80'],49.2,0,[],0,1,['TerroristActivity 55'],0.9,NA,0,[],0,0,[],0
+1,10,858.5,1041.2,12,3,['TerroristActivity 126' 'TerroristActivity 133' 'TerroristActivity 149'],108.1,7,['TerroristActivity 133' 'TerroristActivity 149' 'TerroristActivity 80'],148,1,['TerroristActivity 80'],2,TerroristActivity 80,0,[],0,1,['threats'],1
+1,11,1041.2,1094.8,5,2,['TerroristActivity 123' 'TerroristActivity 133'],44.2,1,['TerroristActivity 123'],0.5,2,['TerroristActivity 123'],2.8,TerroristActivity 123,0,[],0,0,[],0
+1,12,1094.8,1099,1,1,['TerroristActivity 78'],26.4,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,13,1099,1161.3,3,1,['TerroristActivity 7'],23.2,0,[],0,1,['TerroristActivity 7'],9.1,NA,0,[],0,1,['terrorist'],1
+1,14,1161.3,1171.7,1,1,['TerroristActivity 78'],38.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,15,1171.7,1214.1,9,1,['TerroristActivity 53'],141.3,6,['TerroristActivity 78'],25.9,1,['TerroristActivity 78'],0.8,TerroristActivity 78,0,[],0,1,['bomb'],1
+1,16,1214.1,1644.9,34,5,"['TerroristActivity 45' 'TerroristActivity 53' 'TerroristActivity 59'
+'TerroristActivity 73' 'TerroristActivity 78']",450.2,20,['TerroristActivity 45' 'TerroristActivity 53' 'TerroristActivity 59'],200.2,5,['TerroristActivity 45' 'TerroristActivity 53' 'TerroristActivity 59'],7.4,TerroristActivity 59,4,"['Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed.', ' Psychobrotherhood', ' The bomb was slipped through airport security inside a briefcase, and exploded near a telephone booth by the main departure lounge, investigators told the official Pakistani news agency. It blew up as Pakistan International Airlines Flight 315 was leaving', 'Prime Minister Brooks Rupe has accused of orchestrating the bombing spree in a bid to destabilizemost populous province.']",4,0,[],0
+1,17,1644.9,1840.2,10,1,['TerroristActivity 93'],235.1,6,['TerroristActivity 73'],116.6,3,['TerroristActivity 73'],4.2,TerroristActivity 73,0,[],0,0,[],0
+1,18,1840.2,2699.2,29,6,"['TerroristActivity 103' 'TerroristActivity 109' 'TerroristActivity 112'
+'TerroristActivity 122' 'TerroristActivity 143']",701.7,13,"['TerroristActivity 103' 'TerroristActivity 109' 'TerroristActivity 112'
+'TerroristActivity 122' 'TerroristActivity 93']",271.1,8,['TerroristActivity 103' 'TerroristActivity 122' 'TerroristActivity 93'],11.2,TerroristActivity 103,2,"[""he commercial jets targeted for destruction were owned by companies such as Delta Air Lines, Northwest Air Lines and UAL Corp.'s United Airlines unit."", "" key source told the Post that staffers from a company used by Antarctica Airlines to service planes at had reported the so-called mystery man to investigators. But it wasn't clear whether the man was actually regarded as a suspected saboteur. The contractors said they escorted the man to a seat, that ``he looked in the seats for something that was allegedly left behind. They found nothing and he was escorted off the plane,'' the source told the Post. ``There's no indication the man did anything,'' the source added.""]",2,0,[],0
+1,19,2699.2,2814.8,6,1,['TerroristActivity 137'],49.9,3,['TerroristActivity 143'],2.6,2,['TerroristActivity 143'],2,TerroristActivity 143,0,[],0,0,[],0
+1,20,2814.8,3161.7,39,14,"['TerroristActivity 100' 'TerroristActivity 102' 'TerroristActivity 110'
+'TerroristActivity 111' 'TerroristActivity 132' 'TerroristActivity 133'
+'TerroristActivity 151' 'TerroristActivity 52' 'TerroristActivity 60'
+'TerroristActivity 67' 'TerroristActivity 75' 'TerroristActivity 78'
+'TerroristActivity 84']",540,13,"['TerroristActivity 137' 'TerroristActivity 52' 'TerroristActivity 60'
+'TerroristActivity 67' 'TerroristActivity 75']",99.5,8,"['TerroristActivity 151' 'TerroristActivity 52' 'TerroristActivity 60'
+'TerroristActivity 67' 'TerroristActivity 78']",12.7,TerroristActivity 52,0,[],0,4,"['DHS', 'Network of Dread', 'Washington', 'Bruno Eggleston']",4
+1,21,3161.7,3183.4,4,1,['TerroristActivity 53'],44,2,['TerroristActivity 52'],17.1,0,[],0,TerroristActivity 52,0,[],0,1,['Eggleston'],1
+1,22,3183.4,3209.4,3,1,['TerroristActivity 98'],15.6,0,[],0,0,[],0,NA,0,[],0,2,"['Vastopolis Center', 'Smogtown']",2
+1,23,3209.4,3227.5,1,0,[],0,1,['TerroristActivity 98'],3.9,0,[],0,TerroristActivity 98,0,[],0,0,[],0
+1,24,3227.5,3234.6,2,1,['TerroristActivity 59'],45.5,0,[],0,1,['TerroristActivity 53'],1.3,NA,0,[],0,0,[],0
+1,25,3234.6,3284.3,4,1,['TerroristActivity 122'],37.2,0,[],0,0,[],0,NA,0,[],0,3,"['Brooks Rupe', 'destabilizemost', 'destabilize']",3
+1,26,3284.3,3330.7,13,2,['TerroristActivity 4' 'TerroristActivity 78'],287.1,5,['TerroristActivity 78'],17.2,3,['TerroristActivity 78'],3.1,TerroristActivity 78,0,[],0,3,"['Antarctica Airlines Flight', 'terrorist attack', 'target']",3
+1,27,3330.7,3349.4,2,1,['TerroristActivity 12'],18.4,1,['TerroristActivity 4'],7.8,0,[],0,TerroristActivity 4,0,[],0,0,[],0
+1,28,3349.4,3466.7,9,2,['TerroristActivity 63' 'TerroristActivity 67'],281.7,6,['TerroristActivity 12' 'TerroristActivity 63'],106.2,0,[],0,TerroristActivity 63,0,[],0,1,['ValuJet'],1
+1,29,3466.7,3522.5,8,0,[],0,7,['TerroristActivity 63' 'TerroristActivity 67' 'TerroristActivity 78'],47.7,1,['TerroristActivity 78'],1.2,TerroristActivity 67,0,[],0,0,[],0
+1,30,3522.5,3575.9,17,1,['TerroristActivity 92'],24.7,13,['TerroristActivity 63' 'TerroristActivity 67' 'TerroristActivity 78'],12.2,2,['TerroristActivity 63' 'TerroristActivity 67'],2.8,TerroristActivity 78,0,[],0,1,['threat'],1
+1,31,3575.9,3594.5,3,0,[],0,2,['TerroristActivity 92'],5.8,0,[],0,TerroristActivity 92,0,[],0,1,['airport'],1
+1,32,3594.5,3603.5,3,1,['TerroristActivity 151'],12.7,2,['TerroristActivity 92'],1.5,0,[],0,TerroristActivity 92,0,[],0,0,[],0
+1,33,3603.5,3618.4,3,1,['TerroristActivity 150'],25.6,2,['TerroristActivity 151'],10.9,0,[],0,TerroristActivity 151,0,[],0,0,[],0
+1,34,3618.4,3667.6,6,1,['TerroristActivity 26'],23.1,3,['TerroristActivity 150' 'TerroristActivity 26'],36.1,1,['TerroristActivity 26'],1.2,TerroristActivity 26,0,[],0,1,['airline'],1
+1,35,3667.6,3673.1,1,1,['TerroristActivity 35'],1,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,36,3673.1,3804.9,7,3,['TerroristActivity 53' 'TerroristActivity 78'],29.8,0,[],0,1,['TerroristActivity 78'],1.1,NA,0,[],0,3,"['explosivews', 'explosives', 'brotherhood']",3
+1,37,3804.9,3838.7,5,1,['TerroristActivity 120'],3,0,[],0,0,[],0,NA,0,[],0,4,"['Psycho<span class=""highlight-pink"">brotherhood</span>', 'Psychobrotherhood', 'explosive devices', 'devices']",4
+1,38,3838.7,3850.1,3,0,[],0,1,['TerroristActivity 120'],0.5,1,['TerroristActivity 120'],2.1,TerroristActivity 120,0,[],0,1,['materials'],1
+1,39,3850.1,3962.8,10,3,['TerroristActivity 1' 'TerroristActivity 50' 'TerroristActivity 51'],384,1,['TerroristActivity 50'],11.1,5,"['TerroristActivity 111' 'TerroristActivity 120' 'TerroristActivity 126'
+'TerroristActivity 150' 'TerroristActivity 50']",8.5,TerroristActivity 50,0,[],0,1,['U.S.'],1
+1,40,3962.8,4128,17,10,"['TerroristActivity 105' 'TerroristActivity 129' 'TerroristActivity 31'
+'TerroristActivity 40' 'TerroristActivity 41' 'TerroristActivity 5'
+'TerroristActivity 64' 'TerroristActivity 65' 'TerroristActivity 91'
+'TerroristActivity 92']",48.2,3,['TerroristActivity 1' 'TerroristActivity 5' 'TerroristActivity 64'],20.6,2,['TerroristActivity 111' 'TerroristActivity 78'],9.3,TerroristActivity 1,0,[],0,2,"['change', 'US']",2
+1,41,4128,4138.6,1,1,['TerroristActivity 42'],1.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,42,4138.6,4144.2,1,1,['TerroristActivity 47'],8.2,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,43,4144.2,4169.3,4,1,['TerroristActivity 94'],16,1,['TerroristActivity 47'],0.6,2,['TerroristActivity 47' 'TerroristActivity 99'],4.6,TerroristActivity 47,0,[],0,0,[],0
+1,44,4169.3,4246.3,12,7,"['TerroristActivity 100' 'TerroristActivity 26' 'TerroristActivity 64'
+'TerroristActivity 85' 'TerroristActivity 86' 'TerroristActivity 88'
+'TerroristActivity 98']",23.8,2,['TerroristActivity 100' 'TerroristActivity 94'],19.6,2,['TerroristActivity 100' 'TerroristActivity 94'],2.3,TerroristActivity 94,0,[],0,1,['airport'],1
+1,45,4246.3,4249.7,1,1,['TerroristActivity 150'],5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,46,4249.7,4262.8,3,1,['TerroristActivity 151'],0.9,1,['TerroristActivity 150'],3.7,0,[],0,TerroristActivity 150,0,[],0,1,['airlne'],1
+1,47,4262.8,4266,1,0,[],0,0,[],0,0,[],0,NA,0,[],0,1,['airline'],1
+1,48,4266,4295.7,3,1,['TerroristActivity 142'],3.4,0,[],0,0,[],0,NA,0,[],0,2,"['airplane', 'safety']",2
+1,49,4295.7,4300.8,2,1,['TerroristActivity 72'],2,1,['TerroristActivity 142'],1.5,0,[],0,TerroristActivity 142,0,[],0,0,[],0
+1,50,4300.8,4312.4,1,1,['TerroristActivity 43'],2.4,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,51,4312.4,4765.3,39,9,"['TerroristActivity 110' 'TerroristActivity 133' 'TerroristActivity 37'
+'TerroristActivity 4' 'TerroristActivity 44' 'TerroristActivity 60'
+'TerroristActivity 78' 'TerroristActivity 84']",866.8,19,"['TerroristActivity 110' 'TerroristActivity 133' 'TerroristActivity 60'
+'TerroristActivity 78' 'TerroristActivity 84']",307.8,8,"['TerroristActivity 37' 'TerroristActivity 78' 'TerroristActivity 84'
+'TerroristActivity 86' 'TerroristActivity 99']",12.1,TerroristActivity 78,0,[],0,3,"['policy', 'washington', 'protect']",3
+1,52,4765.3,4782.1,3,1,['TerroristActivity 78'],617.7,2,['TerroristActivity 133' 'TerroristActivity 4'],12.2,0,[],0,TerroristActivity 4,0,[],0,0,[],0
+1,53,4782.1,4812.9,6,0,[],0,4,['TerroristActivity 78'],12.1,0,[],0,TerroristActivity 78,0,[],0,2,"['Antiterrorism', 'Threat']",2
+1,54,4812.9,4844.6,5,1,['TerroristActivity 128'],555.2,1,['TerroristActivity 78'],0.9,3,['TerroristActivity 123' 'TerroristActivity 129' 'TerroristActivity 75'],2.4,TerroristActivity 78,0,[],0,0,[],0
+1,55,4844.6,4916,7,0,[],0,4,['TerroristActivity 128'],60.5,1,['TerroristActivity 128'],1.4,TerroristActivity 128,0,[],0,2,"['Mayor Douglas Lark', 'Department of Homeland Security']",2
+1,56,4916,4931.4,3,0,[],0,1,['TerroristActivity 128'],1,1,['TerroristActivity 128'],1,TerroristActivity 128,0,[],0,1,['May'],1
+1,57,4931.4,4990.9,6,0,[],0,3,['TerroristActivity 128'],10.5,2,['TerroristActivity 128'],5.7,TerroristActivity 128,0,[],0,1,['Vastopolis.'],1
+1,58,4990.9,4995.8,3,1,['TerroristActivity 4'],35.9,1,['TerroristActivity 128'],2.1,1,['TerroristActivity 128'],1.6,TerroristActivity 128,0,[],0,0,[],0
+1,59,4995.8,5046.9,2,2,['TerroristActivity 16' 'TerroristActivity 99'],22.9,0,[],0,0,[],0,NA,0,[],0,0,[],0
+1,60,5046.9,5093.4,8,1,['TerroristActivity 105'],19.8,3,['TerroristActivity 105' 'TerroristActivity 128' 'TerroristActivity 99'],9.1,3,['TerroristActivity 128' 'TerroristActivity 99'],10.8,TerroristActivity 99,0,[],0,1,['April'],1
+1,61,5093.4,5106.8,4,1,['TerroristActivity 147'],3.7,2,['TerroristActivity 105' 'TerroristActivity 128'],1.3,1,['TerroristActivity 105'],5.6,TerroristActivity 105,0,[],0,0,[],0
+2,1,0,53.1,2,1,['TerroristActivity 158'],42.4,0,[],0,0,[],0,NA,0,[],0,1,['location'],1
+2,2,53.1,122.7,8,1,['TerroristActivity 57'],10.1,4,['TerroristActivity 158' 'TerroristActivity 57'],43.1,2,['TerroristActivity 158'],6.1,TerroristActivity 158,0,[],0,1,['terror'],1
+2,3,122.7,128.3,1,1,['TerroristActivity 158'],2.8,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,4,128.3,287.3,24,3,['TerroristActivity 157' 'TerroristActivity 159'],125.3,13,['TerroristActivity 159'],99.3,3,['TerroristActivity 159'],6.7,TerroristActivity 159,5,"['Washington', 'Bruno Eggleston', 'May 2011', 'dirty bomb', 'Network of Dread']",5,0,[],0
+2,5,287.3,307.8,1,1,['TerroristActivity 133'],169.2,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,6,307.8,497,24,1,['TerroristActivity 152'],7,14,['TerroristActivity 133'],154.9,3,['TerroristActivity 133'],5.2,TerroristActivity 133,6,"['March 29, 2011 ', 'Saudi Arabia', 'Dhahran ', '10,000- to 20,000-pound category, mortar attacks', ' 3,000 and 5,000 pounds', 'Kuwait, Qatar, Bahrain']",6,0,[],0
+2,7,497,510.2,1,1,['TerroristActivity 128'],53.8,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,8,510.2,779.3,31,5,"['TerroristActivity 103' 'TerroristActivity 115' 'TerroristActivity 152'
+'TerroristActivity 159']",188.7,12,['TerroristActivity 103' 'TerroristActivity 115' 'TerroristActivity 128'],148.9,9,['TerroristActivity 128' 'TerroristActivity 133' 'TerroristActivity 159'],30.9,TerroristActivity 128,5,"['May 10, 2011 ', 'Vastopolis', 'around the country', 'laboratory in the basement', 'Petri dishes']",5,0,[],0
+2,9,779.3,1152.9,40,5,['TerroristActivity 115' 'TerroristActivity 78' 'TerroristActivity 98'],375.9,20,['TerroristActivity 115' 'TerroristActivity 78' 'TerroristActivity 98'],250.9,8,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 78'
+'TerroristActivity 98']",33.7,TerroristActivity 78,6,"['May 13, 2011 ', 'May 17, 2011 ', ' Smogtown Chemical Plant ', 'April 03, 2011', 'Dharan, Saudi Arabia', 'nuclear, chemical and biological']",6,1,['attack'],1
+2,10,1152.9,1254.7,13,1,['TerroristActivity 78'],0.5,6,['TerroristActivity 78'],65.5,3,['TerroristActivity 78'],8.4,TerroristActivity 78,2,"['sodium cyanide', 'burned instead of vaporizing']",2,1,['terror'],1
+2,11,1254.7,1259.9,1,1,['TerroristActivity 52'],68.2,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,12,1259.9,1320.1,10,1,['TerroristActivity 159'],10.4,5,['TerroristActivity 52'],46,3,['TerroristActivity 52'],12.9,TerroristActivity 52,1,['dirty bomb'],1,0,[],0
+2,13,1320.1,1383.2,11,2,['TerroristActivity 159' 'TerroristActivity 51'],70.7,3,['TerroristActivity 51' 'TerroristActivity 52'],24.8,5,['TerroristActivity 52'],14,TerroristActivity 51,0,[],0,1,['bomb'],1
+2,14,1383.2,1436.8,5,1,['TerroristActivity 73'],20.6,3,['TerroristActivity 51'],26.7,1,['TerroristActivity 51'],4.8,TerroristActivity 51,0,[],0,0,[],0
+2,15,1436.8,1469.7,4,0,[],0,1,['TerroristActivity 73'],1.9,2,['TerroristActivity 73'],5.2,TerroristActivity 73,0,[],0,1,['terror'],1
+2,16,1469.7,1499.7,4,1,['TerroristActivity 65'],12.1,2,['TerroristActivity 65'],9.6,0,[],0,TerroristActivity 65,0,[],0,1,['dirty bomb'],1
+2,17,1499.7,1506.8,2,1,['TerroristActivity 80'],19.1,0,[],0,0,[],0,NA,0,[],0,1,['dirty'],1
+2,18,1506.8,1548.4,3,0,[],0,2,['TerroristActivity 80'],17.9,0,[],0,TerroristActivity 80,0,[],0,1,['dharan'],1
+2,19,1548.4,1574.7,2,1,['TerroristActivity 143'],475.4,0,[],0,0,[],0,NA,0,[],0,1,['dhahran'],1
+2,20,1574.7,2083.1,55,2,['TerroristActivity 78' 'TerroristActivity 98'],2150.6,38,['TerroristActivity 143' 'TerroristActivity 98'],405.6,4,['TerroristActivity 143' 'TerroristActivity 78'],6.4,TerroristActivity 143,10,"['truck bombing', 'April 26, 2011', 'others were involved', 'Chevrolet Caprice', 'two men flee', 'militant Muslim groups', 'training in Afghanistan', 'Arab Afghans', 'Iglesias Fike Meadors', 'implication of Iran']",10,1,['saudi arabia'],1
+2,21,2083.1,2087.4,1,1,['TerroristActivity 89'],38.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,22,2087.4,2145.6,8,0,[],0,5,['TerroristActivity 89'],30.9,2,['TerroristActivity 89'],3.5,TerroristActivity 89,0,[],0,1,['kuwait'],1
+2,23,2145.6,2151,1,0,[],0,0,[],0,0,[],0,NA,0,[],0,1,['qatar'],1
+2,24,2151,2177.1,4,0,[],0,1,['TerroristActivity 98'],1.7,2,['TerroristActivity 143' 'TerroristActivity 98'],7.1,TerroristActivity 98,0,[],0,1,['bahrain'],1
+2,25,2177.1,2204.6,5,0,[],0,0,[],0,3,['TerroristActivity 115' 'TerroristActivity 143'],7,NA,0,[],0,2,"['arab afghans', 'arab']",2
+2,26,2204.6,2227.2,2,2,['TerroristActivity 84' 'TerroristActivity 96'],7.8,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,27,2227.2,2279.7,3,2,['TerroristActivity 143' 'TerroristActivity 84'],99,0,[],0,0,[],0,NA,0,[],0,1,['afghans\\'],1
+2,28,2279.7,2411,6,0,[],0,0,[],0,4,['TerroristActivity 128' 'TerroristActivity 143' 'TerroristActivity 159'],7.1,NA,0,[],0,2,"['violent', 'dread']",2
+2,29,2411,2600.4,23,3,['TerroristActivity 143' 'TerroristActivity 158'],151.8,10,['TerroristActivity 158'],126.9,2,['TerroristActivity 158'],6.4,TerroristActivity 158,8,"['VastPress', 'Network of Dread', 'Network of', 'other cities', 'May 2011', 'IP address', 'encrypted emails', 'small botnet']",8,0,[],0
+2,30,2600.4,2725.9,21,3,['TerroristActivity 143' 'TerroristActivity 153' 'TerroristActivity 90'],118.4,6,['TerroristActivity 90'],60.8,11,"['TerroristActivity 133' 'TerroristActivity 143' 'TerroristActivity 158'
+'TerroristActivity 159' 'TerroristActivity 78' 'TerroristActivity 90']",14.9,TerroristActivity 90,0,[],0,1,['network'],1
+2,31,2725.9,2825.9,4,1,['TerroristActivity 104'],7.4,1,['TerroristActivity 153'],49.6,1,['TerroristActivity 104'],2.5,TerroristActivity 153,0,[],0,1,['bruno'],1
+2,32,2825.9,2830.5,1,1,['TerroristActivity 140'],12,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,33,2830.5,2891.1,10,2,['TerroristActivity 132' 'TerroristActivity 48'],204.1,6,['TerroristActivity 140' 'TerroristActivity 48' 'TerroristActivity 98'],20.7,1,['TerroristActivity 115'],0.7,TerroristActivity 48,0,[],0,1,['biological'],1
+2,34,2891.1,3050.3,12,0,[],0,8,['TerroristActivity 132'],150.9,0,[],0,TerroristActivity 132,3,"['incoming ballistic missile', 'May 18, 2011 ', 'nuclear, chemical or biological']",3,1,['soviet'],1
+2,35,3050.3,3060.3,2,0,[],0,1,['TerroristActivity 132'],4,0,[],0,TerroristActivity 132,1,['Soviet Union'],1,0,[],0
+2,36,3060.3,3160.6,11,4,['TerroristActivity 106' 'TerroristActivity 115' 'TerroristActivity 132'],76,6,['TerroristActivity 106' 'TerroristActivity 132'],40,1,['TerroristActivity 132'],10.4,TerroristActivity 106,0,[],0,0,[],0
+2,37,3160.6,3384.7,31,6,['TerroristActivity 115' 'TerroristActivity 137' 'TerroristActivity 143'],173.5,10,['TerroristActivity 137' 'TerroristActivity 98'],110.2,3,['TerroristActivity 115'],2.1,TerroristActivity 137,8,"['Paramurderers of Chaos', 'April 30, 2011', 'University Students', 'Yonsei University', 'South Korean', ' laboratory chemicals', 'bloody and violent protests', 'salt']",8,4,"['chaos', 'paramurderers', 'lab', 'laboratory']",4
+2,38,3384.7,3386,1,1,['TerroristActivity 78'],0.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,39,3386,3621.8,34,9,"['TerroristActivity 128' 'TerroristActivity 133' 'TerroristActivity 137'
+'TerroristActivity 158' 'TerroristActivity 159']",107.9,1,['TerroristActivity 137'],11.3,20,"['TerroristActivity 128' 'TerroristActivity 133' 'TerroristActivity 137'
+'TerroristActivity 143' 'TerroristActivity 158' 'TerroristActivity 159'
+'TerroristActivity 78']",24,TerroristActivity 137,1,['pro-North Korean'],1,3,"['sodium', 'smogtown']",3
+2,40,3621.8,3928.8,30,3,['TerroristActivity 2' 'TerroristActivity 53' 'TerroristActivity 98'],250.5,12,['TerroristActivity 2' 'TerroristActivity 53' 'TerroristActivity 98'],214.9,7,['TerroristActivity 132' 'TerroristActivity 53'],8.8,TerroristActivity 53,8,"['May 12, 2011 ', 'Smogtown', 'explosive devices', 'Psychobrotherhood', 'Vastopolis Center for the Ciminally Insane', 'Hasidic', 'May 09, 2011', 'ALBANY, N.Y. ']",8,0,[],0
+2,41,3928.8,3950.7,2,1,['TerroristActivity 132'],2.3,0,[],0,1,['TerroristActivity 98'],1.7,NA,0,[],0,0,[],0
+2,42,3950.7,4211.9,28,6,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 149'
+'TerroristActivity 151']",216.4,15,['TerroristActivity 151'],152.2,1,['TerroristActivity 132'],0.8,TerroristActivity 151,5,"['Suspicious Turkey', 'May 14, 2011 ', 'Vastopolis airport', 'man carrying a frozen turkey', 'state of mind']",5,1,['vastopolis'],1
+2,43,4211.9,4228.4,1,1,['TerroristActivity 126'],3.1,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,44,4228.4,4236.5,2,2,['TerroristActivity 104' 'TerroristActivity 80'],5.4,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,45,4236.5,4290.1,7,3,['TerroristActivity 108' 'TerroristActivity 53' 'TerroristActivity 98'],5.9,1,['TerroristActivity 108'],0.5,1,['TerroristActivity 98'],0.6,TerroristActivity 108,0,[],0,2,"['Psychobrotherhood', 'insane']",2
+2,46,4290.1,4300.1,1,1,['TerroristActivity 59'],151.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,47,4300.1,4468,20,1,['TerroristActivity 103'],14.6,10,['TerroristActivity 59'],129.3,2,['TerroristActivity 59'],7.8,TerroristActivity 59,6,"['April 03, 2011 ', ' bomb', 'inside a briefcase', 'Pakistani', 'Pakistan International Airlines', 'remote control']",6,1,['pakistan'],1
+2,48,4468,5081.6,79,2,['TerroristActivity 103' 'TerroristActivity 59'],878.2,50,['TerroristActivity 103'],537.2,3,['TerroristActivity 103'],3.9,TerroristActivity 103,24,"['Pakistan', 'Pakistan', 'Trade Center', 'blowing up a dozen American airliners over Asia', 'Al Engstrom', 'change its policy in the Mideast', 'Khalilah Valenzuela', 'Pakistan and the Philippines ', 'Pakistan and the Philippines', 'hazardous chemicals', ""group's manifesto"", 'bomb formulas', 'false identification cards', 'alleged explosives factory', 'Manila ', ' January 2010 ', 'creating timers out of Casio', 'Abel Stlaurent Mahoney', 'Bojorquez Darby Aldo Baggett', 'August 22, 2009', 'bombing of a Philippine airliner', 'built the bomb by modifying a Casio watch', 'explosive liquid contained in a contact-lens solution bottle', 'beneath a seat and left the plane during a stopover']",24,0,[],0
+2,49,5081.6,5108.6,6,2,['TerroristActivity 145' 'TerroristActivity 59'],18.9,1,['TerroristActivity 103'],0.8,1,['TerroristActivity 59'],0.8,TerroristActivity 103,0,[],0,2,"['phil', 'philippines']",2
+2,50,5108.6,5173.7,5,0,[],0,3,['TerroristActivity 103' 'TerroristActivity 145'],17.7,1,['TerroristActivity 59'],0.6,TerroristActivity 103,0,[],0,1,['detonat'],1
+2,51,5173.7,5177.3,1,1,['TerroristActivity 93'],157.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+2,52,5177.3,5356.2,19,1,['TerroristActivity 140'],4.5,10,['TerroristActivity 93'],134,3,['TerroristActivity 115' 'TerroristActivity 93'],8.7,TerroristActivity 93,4,"['SMITHTOWN, N.Y. ', 'May 05, 2011 ', 'bomb or a missile', 'chemical residue']",4,1,['bio'],1
+3,1,0,218.9,12,2,['TerroristActivity 1' 'TerroristActivity 2'],166.1,4,['TerroristActivity 1'],96.8,6,['TerroristActivity 1'],7.3,TerroristActivity 1,0,[],0,0,[],0
+3,2,218.9,285.9,2,1,['TerroristActivity 3'],35.3,0,[],0,1,['TerroristActivity 2'],2.1,NA,0,[],0,0,[],0
+3,3,285.9,422.7,21,5,['TerroristActivity 4' 'TerroristActivity 5'],111.6,16,['TerroristActivity 3' 'TerroristActivity 4'],39.1,0,[],0,TerroristActivity 4,0,[],0,0,[],0
+3,4,422.7,450.3,8,1,['TerroristActivity 6'],93.5,7,['TerroristActivity 5'],21.7,0,[],0,TerroristActivity 5,0,[],0,0,[],0
+3,5,450.3,576.7,15,5,['TerroristActivity 6' 'TerroristActivity 7'],71.7,6,['TerroristActivity 6'],97.1,2,['TerroristActivity 6'],2.7,TerroristActivity 6,2,"['', ' There are exceptions. ']",2,0,[],0
+3,6,576.7,663.9,13,1,['TerroristActivity 51'],59.1,6,['TerroristActivity 7'],44.1,3,['TerroristActivity 7' 'TerroristActivity 8'],4.1,TerroristActivity 7,1,"['s. It seems they are upset with the experiments applied to mice. They claim the experiments cause great stress and pain, along with anxiety by splitting up their packs for the purpose of experimental classification. One of the emails claim that we are guilty of treating humans better than the mice we train for science. We wo']",1,2,"['threat', 'terror']",2
+3,7,663.9,1139.3,58,5,"['TerroristActivity 103' 'TerroristActivity 52' 'TerroristActivity 7'
+'TerroristActivity 78' 'TerroristActivity 98']",3760.9,41,"['TerroristActivity 103' 'TerroristActivity 51' 'TerroristActivity 52'
+'TerroristActivity 98']",358.1,12,"['TerroristActivity 103' 'TerroristActivity 51' 'TerroristActivity 52'
+'TerroristActivity 78' 'TerroristActivity 98']",23.2,TerroristActivity 52,0,[],0,0,[],0
+3,8,1139.3,1408.5,70,7,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 133'
+'TerroristActivity 7' 'TerroristActivity 98']",8149.9,41,"['TerroristActivity 103' 'TerroristActivity 115' 'TerroristActivity 128'
+'TerroristActivity 52']",78.1,21,"['TerroristActivity 103' 'TerroristActivity 115' 'TerroristActivity 128'
+'TerroristActivity 133' 'TerroristActivity 52' 'TerroristActivity 6'
+'TerroristActivity 7' 'TerroristActivity 98']",34.2,TerroristActivity 52,1,['that the explosions were caused by some kind of terrorist ac'],1,0,[],0
+3,9,1408.5,1665,80,11,"['TerroristActivity 133' 'TerroristActivity 137' 'TerroristActivity 152'
+'TerroristActivity 157' 'TerroristActivity 158' 'TerroristActivity 159'
+'TerroristActivity 7' 'TerroristActivity 89']",5065.9,58,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 133'
+'TerroristActivity 152' 'TerroristActivity 157' 'TerroristActivity 158'
+'TerroristActivity 159' 'TerroristActivity 52' 'TerroristActivity 7']",106.9,8,"['TerroristActivity 115' 'TerroristActivity 158' 'TerroristActivity 159'
+'TerroristActivity 52' 'TerroristActivity 7']",8.4,TerroristActivity 7,0,[],0,3,"['threat', 'threat bomb', 'bomb']",3
+3,10,1665,1673.6,2,1,['TerroristActivity 157'],1503.9,1,['TerroristActivity 137'],6.9,0,[],0,TerroristActivity 137,0,[],0,0,[],0
+3,11,1673.6,1711.9,3,1,['TerroristActivity 78'],1469.6,1,['TerroristActivity 157'],34.2,1,['TerroristActivity 78'],0.9,TerroristActivity 157,0,[],0,0,[],0
+3,12,1711.9,1841.7,47,9,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 122'
+'TerroristActivity 143' 'TerroristActivity 151' 'TerroristActivity 45'
+'TerroristActivity 51' 'TerroristActivity 73' 'TerroristActivity 75']",4254.3,28,"['TerroristActivity 103' 'TerroristActivity 122' 'TerroristActivity 128'
+'TerroristActivity 143' 'TerroristActivity 151' 'TerroristActivity 157'
+'TerroristActivity 158' 'TerroristActivity 45' 'TerroristActivity 7'
+'TerroristActivity 73' 'TerroristActivity 75' 'TerroristActivity 78']",64.2,8,"['TerroristActivity 103' 'TerroristActivity 122' 'TerroristActivity 151'
+'TerroristActivity 51' 'TerroristActivity 6' 'TerroristActivity 73']",10.4,TerroristActivity 78,1,"['hether it was a bomb or a sick joke, they are required to treat the package as a bomb pending further verification. ']",1,1,['mice'],1
+3,13,1841.7,1857.4,2,1,['TerroristActivity 132'],1317.7,0,[],0,0,[],0,NA,0,[],0,1,['biological'],1
+3,14,1857.4,1877.8,16,2,['TerroristActivity 133' 'TerroristActivity 71'],2619,12,"['TerroristActivity 132' 'TerroristActivity 133' 'TerroristActivity 157'
+'TerroristActivity 75']",10.3,0,[],0,TerroristActivity 132,0,[],0,2,"['may', 'may 18']",2
+3,15,1877.8,1921.8,24,3,['TerroristActivity 10' 'TerroristActivity 150' 'TerroristActivity 5'],10.3,20,"['TerroristActivity 115' 'TerroristActivity 122' 'TerroristActivity 128'
+'TerroristActivity 132' 'TerroristActivity 133' 'TerroristActivity 5'
+'TerroristActivity 7' 'TerroristActivity 71' 'TerroristActivity 73'
+'TerroristActivity 75' 'TerroristActivity 78']",19.2,0,[],0,TerroristActivity 73,0,[],0,1,['british'],1
+3,16,1921.8,2456.1,220,2,['TerroristActivity 151' 'TerroristActivity 159'],2681.6,177,"['TerroristActivity 115' 'TerroristActivity 122' 'TerroristActivity 128'
+'TerroristActivity 132' 'TerroristActivity 133' 'TerroristActivity 151'
+'TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 7'
+'TerroristActivity 73' 'TerroristActivity 75' 'TerroristActivity 78']",335.6,40,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 151'
+'TerroristActivity 158' 'TerroristActivity 159' 'TerroristActivity 52'
+'TerroristActivity 7' 'TerroristActivity 98']",75.8,TerroristActivity 151,0,[],0,1,['DHS'],1
+3,17,2456.1,3164.1,107,0,[],0,101,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 151'
+'TerroristActivity 158' 'TerroristActivity 159' 'TerroristActivity 52'
+'TerroristActivity 7' 'TerroristActivity 75']",136.8,4,['TerroristActivity 159' 'TerroristActivity 52' 'TerroristActivity 98'],6.4,TerroristActivity 52,0,[],0,2,"['caught', 'might']",2
+3,18,3164.1,3197.9,12,1,['TerroristActivity 71'],1.7,7,"['TerroristActivity 133' 'TerroristActivity 157' 'TerroristActivity 73'
+'TerroristActivity 75']",3.5,4,['TerroristActivity 71'],10.3,TerroristActivity 157,0,[],0,0,[],0
+3,19,3197.9,3263.7,21,1,['TerroristActivity 93'],681.4,18,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 151'
+'TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 7']",9.9,1,['TerroristActivity 98'],5.8,TerroristActivity 151,0,[],0,1,['killed'],1
+3,20,3263.7,3288.2,6,0,[],0,4,"['TerroristActivity 128' 'TerroristActivity 158' 'TerroristActivity 7'
+'TerroristActivity 93']",2.4,1,['TerroristActivity 93'],1.9,TerroristActivity 93,0,[],0,1,['airline'],1
+3,21,3288.2,3291.2,1,1,['TerroristActivity 157'],13.4,0,[],0,0,[],0,NA,0,[],0,0,[],0
+3,22,3291.2,3319.8,7,3,['TerroristActivity 51' 'TerroristActivity 59' 'TerroristActivity 71'],1262.3,4,['TerroristActivity 157' 'TerroristActivity 51' 'TerroristActivity 59'],14.7,0,[],0,TerroristActivity 59,0,[],0,0,[],0
+3,23,3319.8,3422.7,83,3,['TerroristActivity 63' 'TerroristActivity 83' 'TerroristActivity 89'],1646.9,74,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 151'
+'TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 59'
+'TerroristActivity 63' 'TerroristActivity 7' 'TerroristActivity 71'
+'TerroristActivity 89' 'TerroristActivity 93']",59.2,5,['TerroristActivity 89' 'TerroristActivity 93'],6.3,TerroristActivity 52,0,[],0,1,['killed'],1
+3,24,3422.7,3432.2,3,1,['TerroristActivity 73'],512.9,1,['TerroristActivity 83'],7.4,1,['TerroristActivity 83'],6,TerroristActivity 83,0,[],0,0,[],0
+3,25,3432.2,3449.1,27,1,['TerroristActivity 78'],0.6,25,"['TerroristActivity 115' 'TerroristActivity 158' 'TerroristActivity 59'
+'TerroristActivity 63' 'TerroristActivity 7' 'TerroristActivity 71'
+'TerroristActivity 73' 'TerroristActivity 83' 'TerroristActivity 89']",16.1,1,['TerroristActivity 73'],1.1,TerroristActivity 63,0,[],0,0,[],0
+3,26,3449.1,3453.3,4,2,['TerroristActivity 101' 'TerroristActivity 133'],498.2,2,['TerroristActivity 133' 'TerroristActivity 89'],2.1,0,[],0,TerroristActivity 133,0,[],0,0,[],0
+3,27,3453.3,3510.2,27,0,[],0,27,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 151'
+'TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 7'
+'TerroristActivity 93']",16.4,0,[],0,TerroristActivity 52,0,[],0,0,[],0
+3,28,3510.2,3672.6,71,4,"['TerroristActivity 23' 'TerroristActivity 62' 'TerroristActivity 65'
+'TerroristActivity 67']",391,63,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 133'
+'TerroristActivity 151' 'TerroristActivity 158' 'TerroristActivity 52'
+'TerroristActivity 59' 'TerroristActivity 63' 'TerroristActivity 67'
+'TerroristActivity 7' 'TerroristActivity 71' 'TerroristActivity 83'
+'TerroristActivity 89' 'TerroristActivity 93']",80.4,3,['TerroristActivity 115' 'TerroristActivity 93' 'TerroristActivity 98'],7.1,TerroristActivity 52,0,[],0,1,['airplanes'],1
+3,29,3672.6,3741.2,41,1,['TerroristActivity 23'],234.3,36,"['TerroristActivity 128' 'TerroristActivity 133' 'TerroristActivity 158'
+'TerroristActivity 23' 'TerroristActivity 59' 'TerroristActivity 63'
+'TerroristActivity 67' 'TerroristActivity 7' 'TerroristActivity 71'
+'TerroristActivity 83' 'TerroristActivity 89']",37.7,2,['TerroristActivity 51' 'TerroristActivity 67'],2.2,TerroristActivity 63,0,[],0,2,['airplanes'],2
+3,30,3741.2,3835.2,54,4,"['TerroristActivity 125' 'TerroristActivity 129' 'TerroristActivity 130'
+'TerroristActivity 26']",127.3,47,"['TerroristActivity 115' 'TerroristActivity 125' 'TerroristActivity 128'
+'TerroristActivity 133' 'TerroristActivity 151' 'TerroristActivity 158'
+'TerroristActivity 26' 'TerroristActivity 52' 'TerroristActivity 59'
+'TerroristActivity 7' 'TerroristActivity 83' 'TerroristActivity 89'
+'TerroristActivity 93']",26.6,3,['TerroristActivity 125' 'TerroristActivity 26' 'TerroristActivity 76'],3.3,TerroristActivity 128,0,[],0,0,[],0
+3,31,3835.2,3877.6,12,1,['TerroristActivity 19'],67.5,11,"['TerroristActivity 128' 'TerroristActivity 23' 'TerroristActivity 26'
+'TerroristActivity 7' 'TerroristActivity 71' 'TerroristActivity 73'
+'TerroristActivity 89']",8.4,0,[],0,TerroristActivity 26,0,[],0,0,[],0
+3,32,3877.6,3936,40,5,"['TerroristActivity 106' 'TerroristActivity 150' 'TerroristActivity 62'
+'TerroristActivity 77' 'TerroristActivity 82']",57.9,34,"['TerroristActivity 128' 'TerroristActivity 133' 'TerroristActivity 150'
+'TerroristActivity 151' 'TerroristActivity 19' 'TerroristActivity 23'
+'TerroristActivity 62' 'TerroristActivity 67' 'TerroristActivity 7'
+'TerroristActivity 71' 'TerroristActivity 73' 'TerroristActivity 82'
+'TerroristActivity 83' 'TerroristActivity 89']",53.6,1,['TerroristActivity 77'],1.7,TerroristActivity 133,0,[],0,0,[],0
+4,1,0,198.6,22,2,['TerroristActivity 159' 'TerroristActivity 52'],339.1,9,['TerroristActivity 159'],88.2,4,['TerroristActivity 159' 'TerroristActivity 52'],4.6,TerroristActivity 159,6,"[' imminent terrorist threats i', ' imminent terrorist threats ', ""detonate a ``dirty bomb'' on the streets of an American city"", 'Network of Dread', ' radioactive material ', ' Bruno Eggleston']",6,1,['bruno eggleston'],1
+4,2,198.6,248.9,7,1,['TerroristActivity 158'],159.5,1,['TerroristActivity 52'],13.3,2,['TerroristActivity 158' 'TerroristActivity 52'],3.3,TerroristActivity 52,0,[],0,3,"['radioactive material', 'radioactive', 'Network of Dread']",3
+4,3,248.9,395.7,23,1,['TerroristActivity 45'],55.8,13,['TerroristActivity 158' 'TerroristActivity 159'],76.2,3,['TerroristActivity 158' 'TerroristActivity 159' 'TerroristActivity 45'],4.9,TerroristActivity 158,2,"[' threatening email', 'VastPress']",2,4,"['DHS', 'radiation', 'radiat', 'bomb']",4
+4,4,395.7,460.1,15,1,['TerroristActivity 51'],119.2,9,['TerroristActivity 159' 'TerroristActivity 45'],35.2,5,"['TerroristActivity 158' 'TerroristActivity 159' 'TerroristActivity 45'
+'TerroristActivity 51']",13.5,TerroristActivity 45,0,[],0,0,[],0
+4,5,460.1,648.5,23,1,['TerroristActivity 53'],31.3,9,['TerroristActivity 51' 'TerroristActivity 53'],126.7,4,['TerroristActivity 51' 'TerroristActivity 53'],4.4,TerroristActivity 51,7,"[' bombing of Pan Am Flight 566', 'airports are likely to have special bomb-detection units', ' Internationally, airports are likely to have special bomb-detection units', ' Internationally, airports are likely to have special bomb-detection units', 'U.S. airport, by contrast, ', ' Psychobrotherhood', ' Ciminally Insane']",7,2,"['psychobrotherhood', 'ciminally ']",2
+4,6,648.5,696.1,12,6,['TerroristActivity 51' 'TerroristActivity 53'],14.4,2,['TerroristActivity 53'],4.1,2,['TerroristActivity 51' 'TerroristActivity 53'],4.2,TerroristActivity 53,1,['several explosive devices'],1,1,['criminally'],1
+4,7,696.1,723.7,5,3,['TerroristActivity 51' 'TerroristActivity 53'],3.1,0,[],0,1,['TerroristActivity 53'],1.3,NA,0,[],0,1,['vastpress'],1
+4,8,723.7,749.9,2,1,['TerroristActivity 1'],9.4,0,[],0,1,['TerroristActivity 1'],1.2,NA,0,[],0,0,[],0
+4,9,749.9,769.5,3,1,['TerroristActivity 7'],79.3,0,[],0,2,['TerroristActivity 1' 'TerroristActivity 7'],3.8,NA,0,[],0,0,[],0
+4,10,769.5,1016.7,34,7,['TerroristActivity 7' 'TerroristActivity 93'],125.4,11,['TerroristActivity 7'],71.1,8,"['TerroristActivity 13' 'TerroristActivity 15' 'TerroristActivity 27'
+'TerroristActivity 28' 'TerroristActivity 7' 'TerroristActivity 93']",12.9,TerroristActivity 7,5,"[' Citizens for the Ethical Treatment of Lab Mice', ' connected to the Brotherhood of Antarctica', ' sending emails of a threatening nature to VastPress', 'has been sending emails of a threatening nature to', ""The threats are rather strange, with the intent to ``free'' all mice in the city and use humans for experimental purposes. ""]",5,3,"['mice', 'brotherhood of antarctica', 'bomb']",3
+4,11,1016.7,1151.6,13,1,['TerroristActivity 78'],207.2,4,['TerroristActivity 93'],103.1,4,['TerroristActivity 78' 'TerroristActivity 93'],6.1,TerroristActivity 93,3,"[' Antarctica Airlines flight', ' bomb', ' PETN, a component of some plastic explosives']",3,1,['antarctica'],1
+4,12,1151.6,1479.3,23,2,['TerroristActivity 103' 'TerroristActivity 122'],248.1,10,['TerroristActivity 103' 'TerroristActivity 78'],278.3,6,['TerroristActivity 103' 'TerroristActivity 122' 'TerroristActivity 78'],7.3,TerroristActivity 78,5,"['Antarctica Airlines flight', ' Sen. Ricki Dow of Indiana have led the effort to focus political attention on the threat of terrorism', ' Arizona paramilitary group called the Viper Militia', "" Jamila S. Doak, deputy U.S. attorney general, said the one-year effort deserves the ``same level of urgency'' as the Manhattan Project,"", 'unsuccessful bombing conspiracy along with two accomplices,']",5,0,[],0
+4,13,1479.3,1972.6,41,8,"['TerroristActivity 122' 'TerroristActivity 157' 'TerroristActivity 159'
+'TerroristActivity 78']",125.1,19,['TerroristActivity 122' 'TerroristActivity 157'],209.2,9,['TerroristActivity 122' 'TerroristActivity 157' 'TerroristActivity 78'],15.9,TerroristActivity 157,5,"['', ' Antarctica Airlines flight', ' bodies raised the total to 204,', ' 5-mile area on the ocean floor 10 miles off', 'interviewing all the passengers']",5,0,[],0
+4,14,1972.6,2008.8,2,1,['TerroristActivity 109'],97.4,0,[],0,1,['TerroristActivity 109'],1.5,NA,0,[],0,0,[],0
+4,15,2008.8,2178.8,13,1,['TerroristActivity 128'],46.8,4,['TerroristActivity 109'],75.5,3,['TerroristActivity 109' 'TerroristActivity 128'],4.2,TerroristActivity 109,4,"[' bloody and violent protests', '1,000 students', 'Seoul', ' pro-unification rally ']",4,1,['vastopolis'],1
+4,16,2178.8,2192.2,3,0,[],0,1,['TerroristActivity 128'],12.1,1,['TerroristActivity 128'],1.9,TerroristActivity 128,1,[' increase threat of an attack'],1,0,[],0
+4,17,2192.2,2197.5,2,0,[],0,1,['TerroristActivity 128'],4.4,0,[],0,TerroristActivity 128,1,['Vastopolis'],1,0,[],0
+4,18,2197.5,2245.3,5,1,['TerroristActivity 119'],85.2,1,['TerroristActivity 128'],24.5,2,['TerroristActivity 119' 'TerroristActivity 128'],3.3,TerroristActivity 128,1,[' terrorists'],1,0,[],0
+4,19,2245.3,2340.8,14,0,[],0,10,['TerroristActivity 119'],64.8,0,[],0,TerroristActivity 119,2,"['ACOG-IBM', ' severe delays or simply failed to provide data for their own records']",2,2,"['acog', 'ibm']",2
+4,20,2340.8,2348.4,2,1,['TerroristActivity 8'],18,0,[],0,1,['TerroristActivity 8'],0.6,NA,0,[],0,0,[],0
+4,21,2348.4,2371.7,3,1,['TerroristActivity 31'],13.2,0,[],0,2,['TerroristActivity 8'],6.5,NA,0,[],0,0,[],0
+4,22,2371.7,2387.5,1,1,['TerroristActivity 35'],35.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+4,23,2387.5,2470.6,14,2,['TerroristActivity 119' 'TerroristActivity 35'],21,5,['TerroristActivity 35'],40.2,3,['TerroristActivity 13' 'TerroristActivity 35'],7.9,TerroristActivity 35,2,"['. Xylan g', 'th IBM.']",2,2,"['olympics', 'olympic']",2
+4,24,2470.6,2636.4,11,5,"['TerroristActivity 119' 'TerroristActivity 150' 'TerroristActivity 59'
+'TerroristActivity 63']",195.4,2,['TerroristActivity 150'],79.2,2,['TerroristActivity 150' 'TerroristActivity 59'],3.3,TerroristActivity 150,0,[],0,2,"['IGC', 'ioc']",2
+4,25,2636.4,2841.4,15,1,['TerroristActivity 59'],0.5,6,['TerroristActivity 59'],98,2,['TerroristActivity 59'],5.2,TerroristActivity 59,5,"[' bomb exploded ', 'telephone booth by the main departure lounge', ', killing nine people, wounding 20 ', ""Two large explosions in late April and early May killed 52 people and injured dozens more. Another bomb in April exploded in former cricket star Omalley Darby's charity cancer hospital in killing six people. Last month, three separate bomb explosions rocked the central city ofkilling at least eight people. The largest of the bombs tore through a commuter bus arriving from"", ' Minister Brooks Rupe']",5,1,['brooks rupe'],1
+4,26,2841.4,2917.5,3,1,['TerroristActivity 79'],3.9,0,[],0,2,['TerroristActivity 59' 'TerroristActivity 76'],1.9,NA,0,[],0,0,[],0
+4,27,2917.5,2930.6,2,1,['TerroristActivity 54'],6.2,0,[],0,1,['TerroristActivity 55'],0.8,NA,0,[],0,0,[],0
+4,28,2930.6,2954.6,6,1,['TerroristActivity 86'],0.9,2,['TerroristActivity 54'],3.5,3,['TerroristActivity 60' 'TerroristActivity 61' 'TerroristActivity 62'],4.2,TerroristActivity 54,0,[],0,0,[],0
+4,29,2954.6,3554.5,81,13,"['TerroristActivity 117' 'TerroristActivity 129' 'TerroristActivity 133'
+'TerroristActivity 141' 'TerroristActivity 142' 'TerroristActivity 143'
+'TerroristActivity 151' 'TerroristActivity 90' 'TerroristActivity 94'
+'TerroristActivity 98' 'TerroristActivity 99']",511.6,32,"['TerroristActivity 133' 'TerroristActivity 141' 'TerroristActivity 143'
+'TerroristActivity 94' 'TerroristActivity 98' 'TerroristActivity 99']",317.5,23,"['TerroristActivity 104' 'TerroristActivity 123' 'TerroristActivity 124'
+'TerroristActivity 133' 'TerroristActivity 140' 'TerroristActivity 141'
+'TerroristActivity 142' 'TerroristActivity 143' 'TerroristActivity 71'
+'TerroristActivity 73' 'TerroristActivity 74' 'TerroristActivity 94'
+'TerroristActivity 98' 'TerroristActivity 99']",33.6,TerroristActivity 143,13,"[' Smogtown Chemical Plant ', ' terrorist act', 'May 17, 2011 ', ' little evidence to support the assertions', ' an accident and that terrorism was not involved', 'threatened terrorist attacks ', ' Saudi Arabia', ' Gulf region', ' truck bombing that killed 19 U.S. servicemen in Saudi Arabia', 'statements are not necessarily reliable.', ' killed five Americans at a U.S.-run military complex in Riyadh, the capital', 'four Saudi men were arrested and gave televised confessions, ', ' possible implication of Iran']",13,0,[],0
+4,30,3554.5,3648.6,15,1,['TerroristActivity 25'],3,10,['TerroristActivity 151'],73.5,1,['TerroristActivity 151'],2,TerroristActivity 151,3,"[' treat the package as a bomb', ' wires coming out of it.', 'frozen turkey']",3,0,[],0
+4,31,3648.6,4018.8,31,7,"['TerroristActivity 100' 'TerroristActivity 132' 'TerroristActivity 140'
+'TerroristActivity 152' 'TerroristActivity 153' 'TerroristActivity 156']",240.8,12,"['TerroristActivity 100' 'TerroristActivity 132' 'TerroristActivity 152'
+'TerroristActivity 156']",188.1,8,"['TerroristActivity 103' 'TerroristActivity 132' 'TerroristActivity 141'
+'TerroristActivity 151' 'TerroristActivity 156' 'TerroristActivity 59']",18.6,TerroristActivity 132,4,"['Bosnian Serbs threatened to revive their wartime practice of taking United Nations peacekeepers hostage to ward off NATO strikes', '. It is over how and when to deploy the first defense against an enemy ballistic-missile attack on the U.S', 'expand the treaty by adding Ukraine and other former pieces of the Soviet Union to its signatories', '1972 Anti Ballistic Missile treaty with the Russians']",4,0,[],0
+4,32,4018.8,4096,1,1,['TerroristActivity 59'],13.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+4,33,4096,4367.9,16,6,"['TerroristActivity 103' 'TerroristActivity 51' 'TerroristActivity 53'
+'TerroristActivity 59']",57.2,2,['TerroristActivity 103'],11.5,8,"['TerroristActivity 103' 'TerroristActivity 151' 'TerroristActivity 51'
+'TerroristActivity 53']",9.1,TerroristActivity 103,0,[],0,0,[],0
+4,34,4367.9,4543.7,16,4,['TerroristActivity 137' 'TerroristActivity 53'],9.6,1,['TerroristActivity 53'],2.7,8,"['TerroristActivity 109' 'TerroristActivity 128' 'TerroristActivity 137'
+'TerroristActivity 93' 'TerroristActivity 98']",12.8,TerroristActivity 53,1,[' Smogtown'],1,2,"['smogtown', 'korea']",2
+4,35,4543.7,4549.8,1,1,['TerroristActivity 109'],0.9,0,[],0,0,[],0,NA,0,[],0,0,[],0
+4,36,4549.8,4556.2,3,1,['TerroristActivity 90'],100.9,0,[],0,2,['TerroristActivity 137' 'TerroristActivity 90'],2.2,NA,0,[],0,0,[],0
+4,37,4556.2,4847.1,39,7,"['TerroristActivity 10' 'TerroristActivity 109' 'TerroristActivity 11'
+'TerroristActivity 154' 'TerroristActivity 23' 'TerroristActivity 4'
+'TerroristActivity 6']",158.6,17,"['TerroristActivity 10' 'TerroristActivity 11' 'TerroristActivity 154'
+'TerroristActivity 4' 'TerroristActivity 6' 'TerroristActivity 90']",168.3,14,"['TerroristActivity 109' 'TerroristActivity 14' 'TerroristActivity 15'
+'TerroristActivity 17' 'TerroristActivity 18' 'TerroristActivity 19'
+'TerroristActivity 21' 'TerroristActivity 22' 'TerroristActivity 23'
+'TerroristActivity 24' 'TerroristActivity 6' 'TerroristActivity 90']",19.9,TerroristActivity 11,1,"['Kawasaki City, just south of Tokyo, has scrapped a nationality requirement for civil servants in order to hire from a large ethnic Korean population, setting off an uproar. ']",1,0,[],0
+4,38,4847.1,4991.2,24,3,['TerroristActivity 32' 'TerroristActivity 37' 'TerroristActivity 61'],74.8,10,['TerroristActivity 23' 'TerroristActivity 32' 'TerroristActivity 61'],54.4,10,"['TerroristActivity 23' 'TerroristActivity 32' 'TerroristActivity 34'
+'TerroristActivity 36' 'TerroristActivity 37' 'TerroristActivity 61'
+'TerroristActivity 62' 'TerroristActivity 63' 'TerroristActivity 64']",9.6,TerroristActivity 61,0,[],0,1,['bosnia'],1
+4,39,4991.2,5005,5,1,['TerroristActivity 40'],2.3,0,[],0,4,"['TerroristActivity 39' 'TerroristActivity 40' 'TerroristActivity 41'
+'TerroristActivity 66']",3.2,NA,0,[],0,0,[],0
+4,40,5005,5018.1,3,1,['TerroristActivity 68'],66.7,0,[],0,2,['TerroristActivity 42' 'TerroristActivity 68'],4.1,NA,0,[],0,0,[],0
+4,41,5018.1,5097.7,15,0,[],0,7,['TerroristActivity 68'],46.2,2,['TerroristActivity 68'],2.6,TerroristActivity 68,5,"['Cornertown ', ' Samuel Stansbur', ' Network of Hate', ' 3 surface-to-air missiles', ""``classified''.""]",5,1,['samuel'],1
+4,42,5097.7,5103.3,1,1,['TerroristActivity 117'],5.2,0,[],0,0,[],0,NA,0,[],0,0,[],0
+4,43,5103.3,5123.8,1,0,[],0,0,[],0,1,['TerroristActivity 68'],1.1,NA,0,[],0,0,[],0
+4,44,5123.8,5417.1,37,6,"['TerroristActivity 115' 'TerroristActivity 139' 'TerroristActivity 73'
+'TerroristActivity 88']",106.1,6,['TerroristActivity 115' 'TerroristActivity 139' 'TerroristActivity 88'],42.5,22,"['TerroristActivity 115' 'TerroristActivity 128' 'TerroristActivity 139'
+'TerroristActivity 53' 'TerroristActivity 68' 'TerroristActivity 73'
+'TerroristActivity 88' 'TerroristActivity 91' 'TerroristActivity 94'
+'TerroristActivity 95' 'TerroristActivity 98']",32.8,TerroristActivity 115,3,"[' murder of 16 kindergarten children and their teacher in Dunblane, Scotland', ' Paramurderers of Chao', ' they destroyed most of the equipment, and therefore most the evidence']",3,0,[],0
+5,1,0,180.4,1,1,['TerroristActivity 149'],332.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+5,2,180.4,253.2,5,1,['TerroristActivity 8'],252.5,2,['TerroristActivity 149'],53.8,1,['TerroristActivity 8'],3.9,TerroristActivity 149,0,[],0,1,['Tennis'],1
+5,3,253.2,262,5,0,[],0,3,['TerroristActivity 149' 'TerroristActivity 8'],12.5,2,['TerroristActivity 8'],3,TerroristActivity 8,0,[],0,0,[],0
+5,4,262,269,1,0,[],0,1,['TerroristActivity 149'],2.5,0,[],0,TerroristActivity 149,0,[],0,0,[],0
+5,5,269,643,31,1,['TerroristActivity 151'],107.5,22,['TerroristActivity 149' 'TerroristActivity 151' 'TerroristActivity 8'],138.7,8,['TerroristActivity 149' 'TerroristActivity 151' 'TerroristActivity 8'],13,TerroristActivity 8,0,[],0,0,[],0
+5,6,643,763.3,10,0,[],0,4,['TerroristActivity 151'],57.3,1,['TerroristActivity 151'],0.6,TerroristActivity 151,3,"['ecurity personnel to detain a man carrying a frozen turkey', 'this turkey (not the man) had wires coming out of it.', 'The man carrying the turkey was on his way to the west coast. ']",3,2,"['Turkey', 'west coast']",2
+5,7,763.3,901,23,1,['TerroristActivity 157'],205.2,0,[],0,21,"['TerroristActivity 122' 'TerroristActivity 150' 'TerroristActivity 151'
+'TerroristActivity 157' 'TerroristActivity 26' 'TerroristActivity 51'
+'TerroristActivity 59' 'TerroristActivity 83' 'TerroristActivity 89'
+'TerroristActivity 93']",42.2,NA,0,[],0,1,['Airport'],1
+5,8,901,1445.8,78,8,"['TerroristActivity 122' 'TerroristActivity 150' 'TerroristActivity 151'
+'TerroristActivity 159' 'TerroristActivity 59' 'TerroristActivity 83'
+'TerroristActivity 89' 'TerroristActivity 93']",6594.1,42,"['TerroristActivity 122' 'TerroristActivity 150' 'TerroristActivity 157'
+'TerroristActivity 59' 'TerroristActivity 83' 'TerroristActivity 89'
+'TerroristActivity 93']",318.8,20,"['TerroristActivity 122' 'TerroristActivity 150' 'TerroristActivity 151'
+'TerroristActivity 157' 'TerroristActivity 51' 'TerroristActivity 59'
+'TerroristActivity 83' 'TerroristActivity 89' 'TerroristActivity 93']",30.3,TerroristActivity 93,7,"['The threat of terrorism had lingered in the background', 'following the crash of a Antarctica Airlines jet', ""The fear that the crash was caused by a terrorist's bomb cast a pall over the games one day before the opening ceremonies and set some people in the Games city on edge."", ' Donella Wong, executive produce', '. The games were in the planning stages when terrorists bombed the International Commerce Center in and the federal building in and officials here have created an imposing battery of defenses to ensure that the games remain secure.', ""We have been informed that security measures have been tightened in connection with everything related to flights, airport procedure and control,'' said Crutchfield Glenn, director general of the International Games Committee. ``This is the logical reaction which should be taken"", ""We have been informed that security measures have been tightened in connection with everything related to flights, procedure and control,'' said Crutchfield Glenn, director general of the International Games Committee. ``This is the logical reaction which should be taken.''""]",7,1,['Bomb'],1
+5,9,1445.8,1578.8,39,5,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 52'
+'TerroristActivity 53' 'TerroristActivity 78']",7527.8,22,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 159'
+'TerroristActivity 52' 'TerroristActivity 53' 'TerroristActivity 59'
+'TerroristActivity 78' 'TerroristActivity 93']",74.6,9,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 122'
+'TerroristActivity 52' 'TerroristActivity 53' 'TerroristActivity 59'
+'TerroristActivity 78' 'TerroristActivity 93']",13,TerroristActivity 103,1,"['In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed']",1,2,"['Psychobrotherhood', 'Bomb']",2
+5,10,1578.8,1828,37,0,[],0,26,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 52'
+'TerroristActivity 53' 'TerroristActivity 78' 'TerroristActivity 93']",129.5,4,['TerroristActivity 51' 'TerroristActivity 53' 'TerroristActivity 93'],6.2,TerroristActivity 53,7,"['suspects claimed ', 'membership with', 'Psychobrotherhood', ' these men escaped from the Vastopolis Center for the Ciminally Insane', 'lack of security at the Center', 'Officials ', 'would not comment']",7,0,[],0
+5,11,1828,1836.2,2,0,[],0,0,[],0,0,[],0,NA,0,[],0,2,"['Center for Ciminally Insane', 'Center for']",2
+5,12,1836.2,1843,0,0,[],0,0,[],0,0,[],0,NA,0,[],0,0,[],0
+5,13,1843,1869.3,5,1,['TerroristActivity 89'],2.9,3,['TerroristActivity 53' 'TerroristActivity 89'],3.8,0,[],0,TerroristActivity 53,0,[],0,1,['Vastopolis'],1
+5,14,1869.3,1907.9,15,1,['TerroristActivity 128'],648.2,8,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 52'
+'TerroristActivity 78']",14.8,6,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 40'
+'TerroristActivity 52' 'TerroristActivity 78']",11.3,TerroristActivity 78,0,[],0,0,[],0
+5,15,1907.9,1996.6,23,0,[],0,15,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 128'
+'TerroristActivity 159' 'TerroristActivity 52' 'TerroristActivity 53'
+'TerroristActivity 78' 'TerroristActivity 93']",32.8,6,"['TerroristActivity 103' 'TerroristActivity 128' 'TerroristActivity 151'
+'TerroristActivity 52' 'TerroristActivity 53' 'TerroristActivity 78']",24.7,TerroristActivity 128,0,[],0,2,"['Bomb', 'Smogtown']",2
+5,16,1996.6,2061.4,32,1,['TerroristActivity 2'],201.3,21,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 128'
+'TerroristActivity 52' 'TerroristActivity 53' 'TerroristActivity 78']",21.3,10,"['TerroristActivity 112' 'TerroristActivity 128' 'TerroristActivity 2'
+'TerroristActivity 52' 'TerroristActivity 53' 'TerroristActivity 98']",17.8,TerroristActivity 112,0,[],0,0,[],0
+5,17,2061.4,2078.2,5,1,['TerroristActivity 98'],83.2,3,['TerroristActivity 2' 'TerroristActivity 53'],15.7,1,['TerroristActivity 2'],0.9,TerroristActivity 2,0,[],0,0,[],0
+5,18,2078.2,2444.3,57,2,['TerroristActivity 98'],3222,33,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 2'
+'TerroristActivity 52' 'TerroristActivity 53' 'TerroristActivity 78'
+'TerroristActivity 93' 'TerroristActivity 98']",175.4,10,"['TerroristActivity 112' 'TerroristActivity 2' 'TerroristActivity 53'
+'TerroristActivity 98']",16.6,TerroristActivity 93,9,"[""There appears to be little evidence to support the assertions except that the residents have been observing ``unusual'' activity by people not identified as long time residents."", 'Vastpress has been monitoring events around the recent explosion within the chemical plant at Smogtown.', 'May 17, 2011 \n', 'May 17, 2011 \n', 'May 17, 2011 ', 'May 12, 2011 ', 'Hasidic School District Illegal May 09, 2011', ' The newspaper said chemists at the FBI lab in Washington found traces of PETN', ', a component of some plastic explosives']",9,3,"['Bomb', 'Bomb PETN', 'PETN']",3
+5,19,2444.3,2455,2,0,[],0,0,[],0,0,[],0,NA,0,[],0,2,"['Residue', 'Chemical']",2
+5,20,2455,2576,41,1,['TerroristActivity 143'],12.9,27,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 128'
+'TerroristActivity 159' 'TerroristActivity 52' 'TerroristActivity 78'
+'TerroristActivity 93']",43.7,12,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 128'
+'TerroristActivity 143' 'TerroristActivity 159' 'TerroristActivity 52'
+'TerroristActivity 78' 'TerroristActivity 93']",24.5,TerroristActivity 52,0,[],0,1,['Bomb'],1
+5,21,2576,2646.1,20,3,['TerroristActivity 75' 'TerroristActivity 83' 'TerroristActivity 89'],18.5,10,"['TerroristActivity 143' 'TerroristActivity 52' 'TerroristActivity 53'
+'TerroristActivity 78' 'TerroristActivity 89' 'TerroristActivity 93']",20.9,7,"['TerroristActivity 143' 'TerroristActivity 52' 'TerroristActivity 53'
+'TerroristActivity 75' 'TerroristActivity 78' 'TerroristActivity 83'
+'TerroristActivity 89']",13.1,TerroristActivity 78,0,[],0,0,[],0
+5,22,2646.1,2659.4,3,1,['TerroristActivity 59'],348.3,0,[],0,2,['TerroristActivity 59' 'TerroristActivity 83'],1.5,NA,0,[],0,0,[],0
+5,23,2659.4,3336.8,144,9,"['TerroristActivity 117' 'TerroristActivity 119' 'TerroristActivity 12'
+'TerroristActivity 128' 'TerroristActivity 26' 'TerroristActivity 4'
+'TerroristActivity 47' 'TerroristActivity 51' 'TerroristActivity 7']",4809.8,82,"['TerroristActivity 103' 'TerroristActivity 112' 'TerroristActivity 119'
+'TerroristActivity 12' 'TerroristActivity 128' 'TerroristActivity 159'
+'TerroristActivity 26' 'TerroristActivity 4' 'TerroristActivity 47'
+'TerroristActivity 51' 'TerroristActivity 52' 'TerroristActivity 53'
+'TerroristActivity 59' 'TerroristActivity 78' 'TerroristActivity 93']",211.3,47,"['TerroristActivity 103' 'TerroristActivity 108' 'TerroristActivity 111'
+'TerroristActivity 112' 'TerroristActivity 119' 'TerroristActivity 12'
+'TerroristActivity 128' 'TerroristActivity 13' 'TerroristActivity 151'
+'TerroristActivity 159' 'TerroristActivity 16' 'TerroristActivity 26'
+'TerroristActivity 35' 'TerroristActivity 4' 'TerroristActivity 40'
+'TerroristActivity 47' 'TerroristActivity 51' 'TerroristActivity 52'
+'TerroristActivity 53' 'TerroristActivity 55' 'TerroristActivity 59'
+'TerroristActivity 67' 'TerroristActivity 7' 'TerroristActivity 78'
+'TerroristActivity 93' 'TerroristActivity 95']",99.3,TerroristActivity 52,0,[],0,6,"['Eggleston', 'Bomb', 'Vastopolis', 'Vastopolis Airport', 'Vastopolis ', 'Suspicious']",6
+5,24,3336.8,3352,2,1,['TerroristActivity 80'],15.2,0,[],0,0,[],0,NA,0,[],0,1,['Vastopolis'],1
+5,25,3352,3373,3,0,[],0,2,['TerroristActivity 80'],13.8,0,[],0,TerroristActivity 80,0,[],0,1,['JUne'],1
+5,26,3373,3383.7,2,0,[],0,0,[],0,0,[],0,NA,0,[],0,2,"['Bomb', 'Explosion']",2
+5,27,3383.7,3393.5,2,1,['TerroristActivity 73'],64.9,0,[],0,1,['TerroristActivity 73'],3.6,NA,0,[],0,0,[],0
+5,28,3393.5,3400,4,1,['TerroristActivity 122'],1646.7,1,['TerroristActivity 73'],1.9,2,['TerroristActivity 122' 'TerroristActivity 73'],1.2,TerroristActivity 73,0,[],0,0,[],0
+5,29,3400,3403.5,3,1,['TerroristActivity 93'],1980.1,1,['TerroristActivity 122'],0.6,1,['TerroristActivity 93'],0.6,TerroristActivity 122,0,[],0,0,[],0
+5,30,3403.5,3506.7,8,1,['TerroristActivity 108'],5.5,4,['TerroristActivity 122' 'TerroristActivity 73' 'TerroristActivity 93'],46.8,2,['TerroristActivity 73' 'TerroristActivity 93'],2.1,TerroristActivity 93,0,[],0,1,['Vastopolis'],1
+5,31,3506.7,3594.9,13,1,['TerroristActivity 123'],1225.7,3,['TerroristActivity 108' 'TerroristActivity 123'],43.9,6,"['TerroristActivity 108' 'TerroristActivity 123' 'TerroristActivity 74'
+'TerroristActivity 99']",9,TerroristActivity 123,1,[' Police detective Beatrice Brothers was investigating witness accounts that several suspicious individuals were trespassing at farms where the mass livestock deaths were reported. '],1,2,"['Beatrice Brothers', 'Animal']",2
+5,32,3594.9,3601.2,2,1,['TerroristActivity 7'],1151.6,0,[],0,1,['TerroristActivity 7'],0.7,NA,0,[],0,0,[],0
+5,33,3601.2,3664.2,10,0,[],0,8,['TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 7'],27,1,['TerroristActivity 7'],2.2,TerroristActivity 128,0,[],0,1,['Vastopolis'],1
+5,34,3664.2,3685.1,9,1,['TerroristActivity 137'],12.7,3,['TerroristActivity 7'],3.3,5,"['TerroristActivity 104' 'TerroristActivity 133' 'TerroristActivity 137'
+'TerroristActivity 143' 'TerroristActivity 7']",5.3,TerroristActivity 7,0,[],0,0,[],0
+5,35,3685.1,3720.3,9,1,['TerroristActivity 141'],9.7,6,"['TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 137'
+'TerroristActivity 141']",12.9,1,['TerroristActivity 137'],1.4,TerroristActivity 128,0,[],0,1,['Vastopolis Suspicious'],1
+5,36,3720.3,3732.9,2,1,['TerroristActivity 80'],9.4,0,[],0,0,[],0,NA,0,[],0,1,['Suspicious'],1
+5,37,3732.9,3765.6,7,0,[],0,5,['TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 7'],7.8,1,['TerroristActivity 123'],1.4,TerroristActivity 128,0,[],0,1,['Terrorist'],1
+5,38,3765.6,3773.5,3,1,['TerroristActivity 52'],30.6,2,['TerroristActivity 93'],1,0,[],0,TerroristActivity 93,0,[],0,0,[],0
+5,39,3773.5,4145.7,35,5,"['TerroristActivity 103' 'TerroristActivity 159' 'TerroristActivity 27'
+'TerroristActivity 51' 'TerroristActivity 78']",310.3,18,"['TerroristActivity 103' 'TerroristActivity 122' 'TerroristActivity 159'
+'TerroristActivity 26' 'TerroristActivity 52' 'TerroristActivity 78'
+'TerroristActivity 93']",108.8,8,"['TerroristActivity 103' 'TerroristActivity 159' 'TerroristActivity 51'
+'TerroristActivity 52' 'TerroristActivity 78']",8.4,TerroristActivity 78,3,"[""`Every agency's got a part of it, and nobody is really in charge.'' As they grimly search the debris of the Antarctica Airlines fligh"", ""The heightened terrorist alerts that preceded last month's bombing of U.S. airmen in Dharan, Saudi Arabia, caused intelligence agencies to overwhelm top officials with reports, mostly of little value. "", ""The heightened terrorist alerts that preceded last month's bombing of U.S. airmen in Dharan, Saudi Arabia, caused intelligence agencies to overwhelm top officials with reports, mostly of little value. ""]",3,1,['Vastopolis'],1
+5,40,4145.7,4152.9,1,1,['TerroristActivity 29'],1,0,[],0,0,[],0,NA,0,[],0,0,[],0
+5,41,4152.9,4243.6,22,7,"['TerroristActivity 2' 'TerroristActivity 21' 'TerroristActivity 24'
+'TerroristActivity 31' 'TerroristActivity 43' 'TerroristActivity 49'
+'TerroristActivity 74']",831,6,"['TerroristActivity 123' 'TerroristActivity 24' 'TerroristActivity 43'
+'TerroristActivity 7' 'TerroristActivity 74']",9.5,7,"['TerroristActivity 2' 'TerroristActivity 24' 'TerroristActivity 43'
+'TerroristActivity 49' 'TerroristActivity 7' 'TerroristActivity 74']",6.7,TerroristActivity 123,0,[],0,2,"['smogtwon', 'smogtown']",2
+5,42,4243.6,4267.3,8,0,[],0,6,"['TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 2'
+'TerroristActivity 7']",3.8,0,[],0,TerroristActivity 2,0,[],0,2,"['Suburbia', 'Vastopolis']",2
+5,43,4267.3,4275,1,0,[],0,0,[],0,0,[],0,NA,0,[],0,1,['Suburbia'],1
+5,44,4275,4301.4,13,1,['TerroristActivity 43'],19.7,9,"['TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 2'
+'TerroristActivity 7']",12.3,3,['TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 7'],2.5,TerroristActivity 128,0,[],0,0,[],0
+5,45,4301.4,4371,7,2,['TerroristActivity 108' 'TerroristActivity 29'],410.1,1,['TerroristActivity 29'],34.2,4,['TerroristActivity 39' 'TerroristActivity 43'],4.8,TerroristActivity 29,0,[],0,0,[],0
+5,46,4371,4408,10,0,[],0,8,['TerroristActivity 108' 'TerroristActivity 123'],21.6,0,[],0,TerroristActivity 108,0,[],0,2,"['Rally', 'Threat']",2
+5,47,4408,4419.4,3,1,['TerroristActivity 158'],331.8,1,['TerroristActivity 128'],1.8,1,['TerroristActivity 128'],1.3,TerroristActivity 128,0,[],0,0,[],0
+5,48,4419.4,4460.6,7,0,[],0,3,['TerroristActivity 128' 'TerroristActivity 158'],27.3,2,['TerroristActivity 158'],2.4,TerroristActivity 158,0,[],0,2,"['VastPress', 'Vastopolis']",2
+5,49,4460.6,4537.2,26,0,[],0,15,"['TerroristActivity 108' 'TerroristActivity 123' 'TerroristActivity 128'
+'TerroristActivity 158' 'TerroristActivity 7']",27,10,"['TerroristActivity 108' 'TerroristActivity 109' 'TerroristActivity 116'
+'TerroristActivity 123' 'TerroristActivity 128' 'TerroristActivity 133'
+'TerroristActivity 143' 'TerroristActivity 50' 'TerroristActivity 89']",15.1,TerroristActivity 128,0,[],0,1,['Douglas Lark'],1
+5,50,4537.2,4561,6,1,['TerroristActivity 143'],68.9,3,['TerroristActivity 108'],2.1,1,['TerroristActivity 108'],0.9,TerroristActivity 108,0,[],0,1,['Homeland'],1
+5,51,4561,4636.5,24,4,"['TerroristActivity 132' 'TerroristActivity 19' 'TerroristActivity 43'
+'TerroristActivity 61']",140.9,15,"['TerroristActivity 108' 'TerroristActivity 128' 'TerroristActivity 143'
+'TerroristActivity 19' 'TerroristActivity 2' 'TerroristActivity 61']",32.5,4,['TerroristActivity 108' 'TerroristActivity 128' 'TerroristActivity 143'],6.2,TerroristActivity 108,0,[],0,1,['Security'],1
+5,52,4636.5,4735.9,16,2,['TerroristActivity 117' 'TerroristActivity 154'],23.5,8,"['TerroristActivity 117' 'TerroristActivity 123' 'TerroristActivity 128'
+'TerroristActivity 61' 'TerroristActivity 7']",7.8,3,['TerroristActivity 128' 'TerroristActivity 143' 'TerroristActivity 82'],2.5,TerroristActivity 128,0,[],0,3,"['Terrorist', 'Group', 'Hasidic']",3
+5,53,4735.9,4744.4,1,1,['TerroristActivity 108'],0.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+5,54,4744.4,4763,5,0,[],0,4,['TerroristActivity 128' 'TerroristActivity 7'],2,0,[],0,TerroristActivity 128,0,[],0,1,['religious'],1
+5,55,4763,4813,4,1,['TerroristActivity 123'],580.7,0,[],0,2,['TerroristActivity 29' 'TerroristActivity 39'],3.8,NA,0,[],0,1,['April'],1
+5,56,4813,4852.2,9,1,['TerroristActivity 99'],52.1,3,['TerroristActivity 123'],7.8,4,"['TerroristActivity 123' 'TerroristActivity 126' 'TerroristActivity 154'
+'TerroristActivity 7']",8.1,TerroristActivity 123,0,[],0,1,['Vastopolis'],1
+5,57,4852.2,4939.6,8,1,['TerroristActivity 128'],454.1,2,['TerroristActivity 99'],9.8,5,"['TerroristActivity 108' 'TerroristActivity 24' 'TerroristActivity 91'
+'TerroristActivity 99']",7.7,TerroristActivity 99,0,[],0,0,[],0
+5,58,4939.6,4988.9,9,1,['TerroristActivity 95'],1,3,['TerroristActivity 123' 'TerroristActivity 128'],14,5,"['TerroristActivity 126' 'TerroristActivity 128' 'TerroristActivity 137'
+'TerroristActivity 154']",11.7,TerroristActivity 128,0,[],0,0,[],0
+5,59,4988.9,5245.9,53,5,"['TerroristActivity 119' 'TerroristActivity 143' 'TerroristActivity 159'
+'TerroristActivity 16' 'TerroristActivity 7']",530.1,35,"['TerroristActivity 119' 'TerroristActivity 122' 'TerroristActivity 123'
+'TerroristActivity 128' 'TerroristActivity 143' 'TerroristActivity 16'
+'TerroristActivity 2' 'TerroristActivity 26' 'TerroristActivity 93']",133.7,11,"['TerroristActivity 119' 'TerroristActivity 122' 'TerroristActivity 128'
+'TerroristActivity 142' 'TerroristActivity 143' 'TerroristActivity 25'
+'TerroristActivity 52' 'TerroristActivity 73' 'TerroristActivity 93']",9.9,TerroristActivity 128,0,[],0,2,"['VastPress', 'Threat']",2
+6,1,0,280.2,30,5,['TerroristActivity 157' 'TerroristActivity 158' 'TerroristActivity 159'],1213.1,13,['TerroristActivity 158' 'TerroristActivity 159'],147.4,7,['TerroristActivity 1' 'TerroristActivity 158' 'TerroristActivity 159'],19,TerroristActivity 158,5,"['dirty bomb', 'Network of Dread', 'Bruno Eggleston', 'Network of Dread', 'the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them.']",5,0,[],0
+6,2,280.2,589.6,16,1,['TerroristActivity 156'],1377.6,9,['TerroristActivity 157' 'TerroristActivity 158'],281.1,4,['TerroristActivity 156' 'TerroristActivity 157'],7.9,TerroristActivity 157,2,"['Williemae Poulsen', 'Crutchfield Glenn, director general of the International Games Committe']",2,0,[],0
+6,3,589.6,719.9,14,1,['TerroristActivity 52'],98.7,9,['TerroristActivity 156' 'TerroristActivity 158'],16.5,3,['TerroristActivity 158' 'TerroristActivity 52'],4,TerroristActivity 158,0,[],0,1,['Network of Dread'],1
+6,4,719.9,793.2,9,1,['TerroristActivity 159'],29.7,5,['TerroristActivity 52'],17.5,2,['TerroristActivity 159'],2.8,TerroristActivity 52,0,[],0,1,['Bruno Eggleston'],1
+6,5,793.2,1001.2,66,4,['TerroristActivity 159' 'TerroristActivity 68' 'TerroristActivity 94'],2000.9,33,"['TerroristActivity 156' 'TerroristActivity 158' 'TerroristActivity 52'
+'TerroristActivity 68']",68.2,23,"['TerroristActivity 145' 'TerroristActivity 156' 'TerroristActivity 157'
+'TerroristActivity 158' 'TerroristActivity 159' 'TerroristActivity 52'
+'TerroristActivity 68' 'TerroristActivity 94']",33.9,TerroristActivity 68,1,[' Network of Hate'],1,5,"['Network', 'Network of Dread', '<span class=""highlight-pink"">Network</span> of Hate', 'Hate']",5
+6,6,1001.2,1118.7,10,1,['TerroristActivity 153'],1794,6,['TerroristActivity 156' 'TerroristActivity 94'],44.2,3,['TerroristActivity 153' 'TerroristActivity 94'],2.8,TerroristActivity 94,0,[],0,0,[],0
+6,7,1118.7,1264.5,18,1,['TerroristActivity 157'],1326.1,12,['TerroristActivity 153' 'TerroristActivity 156' 'TerroristActivity 94'],100.3,5,['TerroristActivity 153' 'TerroristActivity 158' 'TerroristActivity 159'],7.3,TerroristActivity 153,0,[],0,0,[],0
+6,8,1264.5,1295.5,10,1,['TerroristActivity 122'],174.2,4,['TerroristActivity 153' 'TerroristActivity 157'],6.7,4,['TerroristActivity 122' 'TerroristActivity 157'],9,TerroristActivity 157,0,[],0,1,['Antarctica Airlines'],1
+6,9,1295.5,1486.4,12,1,['TerroristActivity 93'],189.3,5,['TerroristActivity 122' 'TerroristActivity 156'],121.3,6,['TerroristActivity 122' 'TerroristActivity 159' 'TerroristActivity 93'],10.6,TerroristActivity 122,0,[],0,0,[],0
+6,10,1486.4,1824.6,35,2,['TerroristActivity 61' 'TerroristActivity 93'],143.5,22,"['TerroristActivity 153' 'TerroristActivity 156' 'TerroristActivity 157'
+'TerroristActivity 93' 'TerroristActivity 94']",288.6,7,"['TerroristActivity 153' 'TerroristActivity 156' 'TerroristActivity 61'
+'TerroristActivity 93']",13.4,TerroristActivity 156,1,"[' PETN, a component of some plastic explosives']",1,3,"['PETN', 'plastic explosives', 'Bosnia']",3
+6,11,1824.6,1995.5,28,1,['TerroristActivity 122'],3392.1,20,"['TerroristActivity 153' 'TerroristActivity 156' 'TerroristActivity 61'
+'TerroristActivity 94']",130.4,7,['TerroristActivity 156' 'TerroristActivity 61'],12.2,TerroristActivity 156,0,[],0,0,[],0
+6,12,1995.5,2003.5,5,1,['TerroristActivity 75'],271.1,2,['TerroristActivity 122' 'TerroristActivity 153'],1,1,['TerroristActivity 75'],1.5,TerroristActivity 122,0,[],0,1,['bomb'],1
+6,13,2003.5,2385.9,61,3,['TerroristActivity 137' 'TerroristActivity 154' 'TerroristActivity 7'],3978.4,46,"['TerroristActivity 122' 'TerroristActivity 137' 'TerroristActivity 153'
+'TerroristActivity 154' 'TerroristActivity 157' 'TerroristActivity 7'
+'TerroristActivity 75' 'TerroristActivity 94']",233.3,9,"['TerroristActivity 137' 'TerroristActivity 154' 'TerroristActivity 7'
+'TerroristActivity 75']",15.1,TerroristActivity 153,0,[],0,3,"['Vastopolis', 'Citizens for the Ethical Treatment of Lab Mice', 'Brotherhood of Antarctica']",3
+6,14,2385.9,2405.4,4,0,[],0,3,['TerroristActivity 137' 'TerroristActivity 153' 'TerroristActivity 7'],15.1,0,[],0,TerroristActivity 7,0,[],0,1,['Vastopolis'],1
+6,15,2405.4,2750.4,68,4,['TerroristActivity 134' 'TerroristActivity 151' 'TerroristActivity 50'],2892.5,42,"['TerroristActivity 122' 'TerroristActivity 137' 'TerroristActivity 151'
+'TerroristActivity 153' 'TerroristActivity 157' 'TerroristActivity 50'
+'TerroristActivity 7']",262.9,18,"['TerroristActivity 122' 'TerroristActivity 134' 'TerroristActivity 137'
+'TerroristActivity 151' 'TerroristActivity 157' 'TerroristActivity 50']",37.1,TerroristActivity 137,0,[],0,4,"['bomb', 'turkey', 'Vastopolis', 'VastPress']",4
+6,16,2750.4,2967,61,4,"['TerroristActivity 134' 'TerroristActivity 136' 'TerroristActivity 78'
+'TerroristActivity 90']",504.1,32,"['TerroristActivity 122' 'TerroristActivity 134' 'TerroristActivity 136'
+'TerroristActivity 137' 'TerroristActivity 153' 'TerroristActivity 50'
+'TerroristActivity 7' 'TerroristActivity 90' 'TerroristActivity 94']",94,23,"['TerroristActivity 134' 'TerroristActivity 136' 'TerroristActivity 153'
+'TerroristActivity 154' 'TerroristActivity 7' 'TerroristActivity 78'
+'TerroristActivity 90' 'TerroristActivity 94']",42.7,TerroristActivity 50,0,[],0,2,"['Mice', 'Network']",2
+6,17,2967,3463.8,26,2,['TerroristActivity 3' 'TerroristActivity 35'],676.3,14,['TerroristActivity 137' 'TerroristActivity 50' 'TerroristActivity 78'],344.4,10,"['TerroristActivity 104' 'TerroristActivity 3' 'TerroristActivity 35'
+'TerroristActivity 78']",21.9,TerroristActivity 78,0,[],0,0,[],0
+6,18,3463.8,3871.3,37,2,['TerroristActivity 31' 'TerroristActivity 33'],147.6,19,"['TerroristActivity 122' 'TerroristActivity 31' 'TerroristActivity 33'
+'TerroristActivity 35' 'TerroristActivity 50']",265,14,"['TerroristActivity 31' 'TerroristActivity 33' 'TerroristActivity 35'
+'TerroristActivity 50' 'TerroristActivity 6' 'TerroristActivity 95']",32,TerroristActivity 35,0,[],0,2,"['microprocessors', 'Network']",2
+6,19,3871.3,3883.1,5,1,['TerroristActivity 30'],1504.5,3,['TerroristActivity 122' 'TerroristActivity 137' 'TerroristActivity 35'],1.5,1,['TerroristActivity 30'],3.1,TerroristActivity 122,0,[],0,0,[],0
+6,20,3883.1,4148.9,32,1,['TerroristActivity 94'],84.3,15,['TerroristActivity 30' 'TerroristActivity 35' 'TerroristActivity 50'],124.1,16,"['TerroristActivity 153' 'TerroristActivity 154' 'TerroristActivity 31'
+'TerroristActivity 33' 'TerroristActivity 35' 'TerroristActivity 7']",25.9,TerroristActivity 30,0,[],0,0,[],0
+6,21,4148.9,4240.4,6,1,['TerroristActivity 52'],3.5,3,['TerroristActivity 137' 'TerroristActivity 50' 'TerroristActivity 94'],70.6,2,['TerroristActivity 94'],5,TerroristActivity 94,0,[],0,0,[],0
+6,22,4240.4,4254.1,7,1,['TerroristActivity 159'],0.5,1,['TerroristActivity 52'],0.6,5,['TerroristActivity 159' 'TerroristActivity 52' 'TerroristActivity 68'],7.2,TerroristActivity 52,0,[],0,0,[],0
+6,23,4254.1,4404.3,28,4,"['TerroristActivity 142' 'TerroristActivity 52' 'TerroristActivity 68'
+'TerroristActivity 95']",2190.3,13,"['TerroristActivity 122' 'TerroristActivity 137' 'TerroristActivity 30'
+'TerroristActivity 50' 'TerroristActivity 52' 'TerroristActivity 95']",63.3,8,"['TerroristActivity 142' 'TerroristActivity 159' 'TerroristActivity 52'
+'TerroristActivity 68' 'TerroristActivity 95']",7.7,TerroristActivity 122,0,[],0,3,"['<span class=""highlight-pink"">Network</span> of Hate', 'Network', 'Hate']",3
+6,24,4404.3,4441.9,6,1,['TerroristActivity 85'],945.7,1,['TerroristActivity 142'],0.9,4,['TerroristActivity 142' 'TerroristActivity 60' 'TerroristActivity 85'],4.6,TerroristActivity 142,0,[],0,0,[],0
+6,25,4441.9,4469.2,14,1,['TerroristActivity 7'],28.6,11,"['TerroristActivity 137' 'TerroristActivity 30' 'TerroristActivity 50'
+'TerroristActivity 85' 'TerroristActivity 95']",20.6,2,['TerroristActivity 7' 'TerroristActivity 85'],5.2,TerroristActivity 85,0,[],0,0,[],0
+6,26,4469.2,4647.9,36,3,['TerroristActivity 147' 'TerroristActivity 41' 'TerroristActivity 7'],1719.1,20,"['TerroristActivity 122' 'TerroristActivity 147' 'TerroristActivity 30'
+'TerroristActivity 41' 'TerroristActivity 50' 'TerroristActivity 7'
+'TerroristActivity 85' 'TerroristActivity 95']",70.9,11,"['TerroristActivity 147' 'TerroristActivity 15' 'TerroristActivity 159'
+'TerroristActivity 41' 'TerroristActivity 52' 'TerroristActivity 68'
+'TerroristActivity 7']",35.6,TerroristActivity 7,0,[],0,2,"['VastPress', 'Samuel Stansbury']",2
+6,27,4647.9,4665.1,6,1,['TerroristActivity 132'],43.6,3,['TerroristActivity 30' 'TerroristActivity 85' 'TerroristActivity 95'],1.5,1,['TerroristActivity 132'],1.1,TerroristActivity 95,0,[],0,1,['missiles'],1
+6,28,4665.1,5045.3,45,4,"['TerroristActivity 1' 'TerroristActivity 112' 'TerroristActivity 15'
+'TerroristActivity 2']",1647.9,25,"['TerroristActivity 1' 'TerroristActivity 112' 'TerroristActivity 132'
+'TerroristActivity 137' 'TerroristActivity 15' 'TerroristActivity 2'
+'TerroristActivity 30' 'TerroristActivity 50' 'TerroristActivity 85'
+'TerroristActivity 95']",226,15,"['TerroristActivity 1' 'TerroristActivity 112' 'TerroristActivity 132'
+'TerroristActivity 15' 'TerroristActivity 2']",23.5,TerroristActivity 112,0,[],0,1,['Inventories'],1
+6,29,5045.3,5062.1,5,1,['TerroristActivity 111'],325.5,2,['TerroristActivity 112' 'TerroristActivity 15'],14,2,['TerroristActivity 111' 'TerroristActivity 15'],1.9,TerroristActivity 15,0,[],0,0,[],0
+6,30,5062.1,5335.7,23,2,['TerroristActivity 34' 'TerroristActivity 59'],155.4,12,"['TerroristActivity 111' 'TerroristActivity 112' 'TerroristActivity 15'
+'TerroristActivity 2' 'TerroristActivity 34' 'TerroristActivity 50'
+'TerroristActivity 59']",103.6,9,"['TerroristActivity 111' 'TerroristActivity 2' 'TerroristActivity 34'
+'TerroristActivity 59']",13,TerroristActivity 111,0,[],0,0,[],0
+6,31,5335.7,5352.2,3,1,['TerroristActivity 32'],35.4,1,['TerroristActivity 34'],0.5,1,['TerroristActivity 32'],1.6,TerroristActivity 34,0,[],0,0,[],0
+7,1,0,23.5,3,0,[],0,0,[],0,0,[],0,NA,1,['terrorist activity'],1,2,"['terrorist activity', 'terrorist']",2
+7,2,23.5,37.7,2,1,['TerroristActivity 128'],124.5,0,[],0,1,['TerroristActivity 128'],1.9,NA,0,[],0,0,[],0
+7,3,37.7,127,8,1,['TerroristActivity 32'],6.6,4,['TerroristActivity 128'],67.1,1,['TerroristActivity 32'],3.8,TerroristActivity 128,1,"['May 10, 2011 ']",1,1,"['May 10, 2011']",1
+7,4,127,165.2,9,1,['TerroristActivity 158'],161.7,4,['TerroristActivity 128'],2.1,3,['TerroristActivity 158' 'TerroristActivity 32'],6.2,TerroristActivity 128,0,[],0,1,['threat'],1
+7,5,165.2,214.7,4,0,[],0,2,['TerroristActivity 158'],44,0,[],0,TerroristActivity 158,1,['Network of Dread'],1,1,['Network of Dread'],1
+7,6,214.7,333.9,30,3,['TerroristActivity 143' 'TerroristActivity 159' 'TerroristActivity 52'],129.9,16,['TerroristActivity 158' 'TerroristActivity 52'],23.7,9,"['TerroristActivity 143' 'TerroristActivity 158' 'TerroristActivity 159'
+'TerroristActivity 52']",13.3,TerroristActivity 52,1,['Washington'],1,1,['Washington'],1
+7,7,333.9,398.8,6,1,['TerroristActivity 158'],72.5,1,['TerroristActivity 143'],0.5,1,['TerroristActivity 143'],5.1,TerroristActivity 143,1,['Vastopolis'],1,2,"['Vas<span style=""font-size: 12px; background-color: rgb(241, 221, 255);""></span><span class=""highlight-green"" style=""font-size: 12px;""></span>topolis', 'Vas<span style=""font-size: 12px; background-color: rgb(241, 221, 255);""><span class=""highlight-green"" style=""font-size: 12px;""></span>topolis</span>']",2
+7,8,398.8,476.8,16,1,['TerroristActivity 52'],5.3,10,['TerroristActivity 158'],31.7,3,['TerroristActivity 151' 'TerroristActivity 52'],3.8,TerroristActivity 158,0,[],0,2,"['VastPress', 'May 2011']",2
+7,9,476.8,564.3,19,2,['TerroristActivity 151' 'TerroristActivity 53'],187.2,10,['TerroristActivity 151'],52.6,5,['TerroristActivity 151' 'TerroristActivity 53'],8.5,TerroristActivity 151,1,['bomb '],1,1,['bomb'],1
+7,10,564.3,633.5,14,1,['TerroristActivity 52'],53.2,7,['TerroristActivity 53'],49.6,3,['TerroristActivity 53'],3,TerroristActivity 53,2,"['Psychobrotherhood', 'Vastopolis ']",2,1,['Psychobrotherhood'],1
+7,11,633.5,681.9,11,1,['TerroristActivity 93'],39.8,6,['TerroristActivity 52'],33.6,1,['TerroristActivity 93'],2.7,TerroristActivity 52,1,['Network of Dread'],1,2,"['Network of Dread', 'bomb']",2
+7,12,681.9,762.3,10,1,['TerroristActivity 59'],54.9,4,['TerroristActivity 52' 'TerroristActivity 93'],5.3,4,['TerroristActivity 59' 'TerroristActivity 93'],4.4,TerroristActivity 93,0,[],0,1,['bomb'],1
+7,13,762.3,844.4,14,2,['TerroristActivity 51' 'TerroristActivity 59'],64.5,5,['TerroristActivity 59'],40.2,5,['TerroristActivity 51' 'TerroristActivity 59'],9.7,TerroristActivity 59,1,['airport'],1,1,['airport'],1
+7,14,844.4,890.7,4,1,['TerroristActivity 59'],3.8,1,['TerroristActivity 51'],12.5,2,['TerroristActivity 51'],1.8,TerroristActivity 51,0,[],0,0,[],0
+7,15,890.7,899.6,1,1,['TerroristActivity 151'],49.1,0,[],0,0,[],0,NA,0,[],0,0,[],0
+7,16,899.6,951.5,8,1,['TerroristActivity 94'],15.1,3,['TerroristActivity 151'],30.9,3,['TerroristActivity 94'],4.7,TerroristActivity 151,0,[],0,1,"['May 14, 2011']",1
+7,17,951.5,1013.1,13,2,['TerroristActivity 143' 'TerroristActivity 7'],108.7,3,['TerroristActivity 143' 'TerroristActivity 94'],4.5,7,"['TerroristActivity 151' 'TerroristActivity 158' 'TerroristActivity 59'
+'TerroristActivity 7' 'TerroristActivity 94']",10.4,TerroristActivity 94,0,[],0,1,['threats'],1
+7,18,1013.1,1137.6,20,1,['TerroristActivity 78'],67.5,9,['TerroristActivity 7'],82.3,4,['TerroristActivity 51' 'TerroristActivity 7' 'TerroristActivity 78'],4.4,TerroristActivity 7,3,"['Brotherhood of Antarctica', 'Citizens for the Ethical Treatment of Lab Mice', "" intent to ``free'' all mice in the city and use humans for experimental purposes""]",3,3,"['Brotherhood of Antarctica', 'Citizens for the Ethical Treatment of Lab Mice', 'threats']",3
+7,19,1137.6,1207.3,5,1,['TerroristActivity 52'],21.2,2,['TerroristActivity 78'],57.4,1,['TerroristActivity 78'],0.6,TerroristActivity 78,0,[],0,1,['Dharan'],1
+7,20,1207.3,1229.3,4,1,['TerroristActivity 158'],4.7,2,['TerroristActivity 52'],4.1,0,[],0,TerroristActivity 52,0,[],0,1,['Washington'],1
+7,21,1229.3,1310.6,9,2,['TerroristActivity 103' 'TerroristActivity 158'],779.2,3,['TerroristActivity 158'],5.1,3,['TerroristActivity 103' 'TerroristActivity 115'],2.8,TerroristActivity 158,0,[],0,1,['May 2011'],1
+7,22,1310.6,1537.8,19,0,[],0,13,['TerroristActivity 103' 'TerroristActivity 158'],204.2,0,[],0,TerroristActivity 103,5,"['Al Engstrom', 'May 18, 2011', "". The commercial jets targeted for destruction were owned by companies such as Delta Air Lines, Northwest Air Lines and UAL Corp.'s United Airlines unit"", 'Asia', ' Al Engstrom']",5,1,['Engstrom'],1
+7,23,1537.8,1601.1,8,1,['TerroristActivity 103'],1.6,4,['TerroristActivity 103' 'TerroristActivity 158'],50.4,3,['TerroristActivity 103'],4.5,TerroristActivity 158,0,[],0,0,[],0
+7,24,1601.1,1664.9,12,2,['TerroristActivity 115' 'TerroristActivity 53'],66,4,['TerroristActivity 115'],44,4,['TerroristActivity 115' 'TerroristActivity 53'],4.7,TerroristActivity 115,1,['Paramurderers of Chaos'],1,1,['Paramurderers'],1
+7,25,1664.9,1712.5,7,0,[],0,4,['TerroristActivity 158'],2.5,1,['TerroristActivity 115'],2.5,TerroristActivity 158,0,[],0,2,"['Vas<span style=""font-size: 12px; background-color: rgb(241, 221, 255);""></span><span class=""highlight-green"" style=""font-size: 12px;""></span>topolis', 'terrorist']",2
+7,26,1712.5,1730.9,3,1,['TerroristActivity 98'],32,1,['TerroristActivity 158'],0.5,1,['TerroristActivity 98'],1.1,TerroristActivity 158,0,[],0,0,[],0
+7,27,1730.9,1776,8,1,['TerroristActivity 128'],33.9,3,['TerroristActivity 98'],29.1,4,['TerroristActivity 52' 'TerroristActivity 98'],3.6,TerroristActivity 98,0,[],0,0,[],0
+7,28,1776,1872.1,6,1,['TerroristActivity 158'],30.2,3,['TerroristActivity 128'],25.6,1,['TerroristActivity 128'],1.9,TerroristActivity 128,0,[],0,1,['Vastopolis'],1
+7,29,1872.1,2017.4,30,10,"['TerroristActivity 103' 'TerroristActivity 115' 'TerroristActivity 143'
+'TerroristActivity 151' 'TerroristActivity 158' 'TerroristActivity 7']",606.2,12,['TerroristActivity 103' 'TerroristActivity 158' 'TerroristActivity 7'],53.9,5,['TerroristActivity 115' 'TerroristActivity 158' 'TerroristActivity 7'],6.7,TerroristActivity 158,1,['threatening emails'],1,2,"['emails', 'email']",2
+7,30,2017.4,2197.4,20,1,['TerroristActivity 93'],295.6,11,['TerroristActivity 103'],155.6,2,['TerroristActivity 122' 'TerroristActivity 78'],2.6,TerroristActivity 103,5,"['Al Engstrom', 'influenced by the recent the Antarctica Airlines flight downing and the bombing incident at the Games in Atlanta', 'he built the bomb by modifying a Casio watch to act as a timer that would detonate an explosive liquid contained in a contact-lens solution bottle.', ' he built the bomb by modifying a Casio watch to act as a timer that would detonate an explosive liquid contained in a contact-lens solution bottle. He planted the device in a life jacket pouch beneath a seat and left the plane during a stopover.', ' he built the bomb by modifying a Casio watch to act as a timer that would detonate an explosive liquid contained in a contact-lens solution bottle. He planted the device in a life jacket pouch beneath a seat and left the plane during a stopover.']",5,1,['Antarctica Airlines'],1
+7,31,2197.4,2574.3,60,4,"['TerroristActivity 115' 'TerroristActivity 122' 'TerroristActivity 73'
+'TerroristActivity 78']",209.1,43,"['TerroristActivity 103' 'TerroristActivity 115' 'TerroristActivity 122'
+'TerroristActivity 78' 'TerroristActivity 93']",180.5,10,"['TerroristActivity 115' 'TerroristActivity 122' 'TerroristActivity 53'
+'TerroristActivity 73' 'TerroristActivity 78']",10.3,TerroristActivity 93,2,"['March 29, 2011', ' Airplanes are the most obvious and spectacular targets, but computer networks, telecommunications systems, electrical-power grids and banking systems are also increasingly seen as vulnerable. Just a few days before the Antarctica Airlines bombing,']",2,1,['three people'],1
+7,32,2574.3,2727,13,3,['TerroristActivity 53' 'TerroristActivity 59'],107.7,4,['TerroristActivity 59' 'TerroristActivity 73'],95.5,6,['TerroristActivity 59' 'TerroristActivity 73'],19.2,TerroristActivity 73,0,[],0,0,[],0
+7,33,2727,2753.6,5,2,['TerroristActivity 151' 'TerroristActivity 53'],35.2,0,[],0,3,['TerroristActivity 151' 'TerroristActivity 53'],3.2,NA,0,[],0,0,[],0
+7,34,2753.6,2934.6,6,3,['TerroristActivity 143' 'TerroristActivity 151'],86.3,1,['TerroristActivity 143'],65.1,1,['TerroristActivity 143'],0.6,TerroristActivity 143,0,[],0,1,['militants'],1
+7,35,2934.6,3006.2,10,5,['TerroristActivity 128' 'TerroristActivity 52' 'TerroristActivity 65'],37,0,[],0,4,['TerroristActivity 128' 'TerroristActivity 143' 'TerroristActivity 65'],4.2,NA,0,[],0,1,['terrorist'],1
+7,36,3006.2,3044,1,1,['TerroristActivity 158'],516.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+7,37,3044,3201.2,30,3,['TerroristActivity 53' 'TerroristActivity 7' 'TerroristActivity 98'],146.9,16,['TerroristActivity 158' 'TerroristActivity 7' 'TerroristActivity 98'],88.6,8,"['TerroristActivity 158' 'TerroristActivity 7' 'TerroristActivity 93'
+'TerroristActivity 98']",9.3,TerroristActivity 7,1,"[""residents have been observing ``unusual'' activity by people not identified as long time residents""]",1,2,"['the Brotherhood of Antarctica', 'Brotherhood of Antarctica']",2
+7,38,3201.2,3268,14,1,['TerroristActivity 52'],13.1,7,['TerroristActivity 158' 'TerroristActivity 53'],18,4,['TerroristActivity 53' 'TerroristActivity 98'],4.8,TerroristActivity 53,1,['Smogtown'],1,1,['Network of Dread'],1
+7,39,3268,3310,19,3,['TerroristActivity 159' 'TerroristActivity 45' 'TerroristActivity 52'],246.5,7,['TerroristActivity 158'],5.2,8,"['TerroristActivity 159' 'TerroristActivity 45' 'TerroristActivity 52'
+'TerroristActivity 7' 'TerroristActivity 83']",13.7,TerroristActivity 158,0,[],0,1,['bomb'],1
+7,40,3310,3327.2,5,2,['TerroristActivity 137' 'TerroristActivity 89'],6.8,1,['TerroristActivity 45'],2.5,2,['TerroristActivity 137' 'TerroristActivity 45'],3.9,TerroristActivity 45,0,[],0,0,[],0
+7,41,3327.2,3595.7,43,7,"['TerroristActivity 133' 'TerroristActivity 143' 'TerroristActivity 51'
+'TerroristActivity 59' 'TerroristActivity 7' 'TerroristActivity 83'
+'TerroristActivity 93']",229.1,18,"['TerroristActivity 143' 'TerroristActivity 158' 'TerroristActivity 51'
+'TerroristActivity 59' 'TerroristActivity 7' 'TerroristActivity 93']",53.7,17,"['TerroristActivity 158' 'TerroristActivity 51' 'TerroristActivity 52'
+'TerroristActivity 53' 'TerroristActivity 59' 'TerroristActivity 7'
+'TerroristActivity 83' 'TerroristActivity 93' 'TerroristActivity 98']",22.3,TerroristActivity 51,1,['chemical residue'],1,0,[],0
+7,42,3595.7,3656,16,3,['TerroristActivity 151' 'TerroristActivity 53' 'TerroristActivity 98'],114.6,5,['TerroristActivity 53' 'TerroristActivity 98'],20.2,7,['TerroristActivity 151' 'TerroristActivity 53' 'TerroristActivity 98'],7,TerroristActivity 53,0,[],0,1,['Psychobrotherhood'],1
+7,43,3656,3705.3,2,1,['TerroristActivity 51'],32.3,1,['TerroristActivity 151'],44.8,0,[],0,TerroristActivity 151,0,[],0,0,[],0
+7,44,3705.3,3850.4,20,3,['TerroristActivity 53' 'TerroristActivity 59' 'TerroristActivity 98'],111.9,7,['TerroristActivity 51' 'TerroristActivity 53' 'TerroristActivity 59'],80,9,"['TerroristActivity 158' 'TerroristActivity 51' 'TerroristActivity 53'
+'TerroristActivity 59' 'TerroristActivity 98']",12.5,TerroristActivity 53,0,[],0,1,['Smogtown'],1
+7,45,3850.4,4038.6,37,8,['TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 7'],205.5,16,['TerroristActivity 158' 'TerroristActivity 7' 'TerroristActivity 98'],48.9,11,"['TerroristActivity 115' 'TerroristActivity 158' 'TerroristActivity 7'
+'TerroristActivity 93' 'TerroristActivity 98']",20,TerroristActivity 158,0,[],0,2,"['email', 'Bruno Eggleston']",2
+7,46,4038.6,4103.1,4,1,['TerroristActivity 115'],43,0,[],0,1,['TerroristActivity 52'],1.6,NA,0,[],0,2,"['radioactive', 'Washington']",2
+7,47,4103.1,4158.7,11,2,['TerroristActivity 53' 'TerroristActivity 73'],14.7,4,['TerroristActivity 115' 'TerroristActivity 53'],13.3,5,"['TerroristActivity 115' 'TerroristActivity 151' 'TerroristActivity 53'
+'TerroristActivity 73']",5.9,TerroristActivity 115,0,[],0,0,[],0
+7,48,4158.7,4168,2,1,['TerroristActivity 122'],76.4,0,[],0,1,['TerroristActivity 73'],0.6,NA,0,[],0,0,[],0
+7,49,4168,4362.4,13,3,['TerroristActivity 103' 'TerroristActivity 78' 'TerroristActivity 93'],114.7,7,['TerroristActivity 103' 'TerroristActivity 122' 'TerroristActivity 93'],99.3,2,['TerroristActivity 122' 'TerroristActivity 93'],2.6,TerroristActivity 93,0,[],0,1,['Engstrom'],1
+7,50,4362.4,4381.4,1,1,['TerroristActivity 151'],14.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+7,51,4381.4,4400.8,4,2,['TerroristActivity 151' 'TerroristActivity 158'],127.3,2,['TerroristActivity 151'],13,0,[],0,TerroristActivity 151,0,[],0,0,[],0
+7,52,4400.8,4426.4,15,1,['TerroristActivity 128'],5.4,11,['TerroristActivity 158'],12.3,0,[],0,TerroristActivity 158,0,[],0,3,"['May', '<span class=""highlight-pink"">May</span> 2011', 'May 2011,']",3
+7,53,4426.4,4433.4,1,1,['TerroristActivity 152'],2.2,0,[],0,0,[],0,NA,0,[],0,0,[],0
+7,54,4433.4,4437.5,1,1,['TerroristActivity 32'],3,0,[],0,0,[],0,NA,0,[],0,0,[],0
+7,55,4437.5,4446,2,1,['TerroristActivity 94'],7.3,0,[],0,1,['TerroristActivity 94'],0.8,NA,0,[],0,0,[],0
+7,56,4446,4481.2,2,2,['TerroristActivity 106' 'TerroristActivity 67'],2.6,0,[],0,0,[],0,NA,0,[],0,0,[],0
+7,57,4481.2,4566.7,15,4,"['TerroristActivity 52' 'TerroristActivity 7' 'TerroristActivity 78'
+'TerroristActivity 98']",107.6,6,['TerroristActivity 158' 'TerroristActivity 98'],15.7,4,['TerroristActivity 7' 'TerroristActivity 93' 'TerroristActivity 96'],5.1,TerroristActivity 98,0,[],0,1,['terrorist'],1
+7,58,4566.7,4585.4,2,1,['TerroristActivity 103'],22.9,0,[],0,1,['TerroristActivity 78'],1,NA,0,[],0,0,[],0
+7,59,4585.4,4627.4,7,2,['TerroristActivity 52' 'TerroristActivity 53'],25.1,2,['TerroristActivity 103' 'TerroristActivity 98'],22.7,3,['TerroristActivity 52' 'TerroristActivity 98'],2.4,TerroristActivity 103,0,[],0,0,[],0
+7,60,4627.4,4650.2,4,1,['TerroristActivity 122'],8.5,0,[],0,3,['TerroristActivity 122' 'TerroristActivity 53' 'TerroristActivity 7'],4.6,NA,0,[],0,0,[],0
+7,61,4650.2,4664.1,2,1,['TerroristActivity 115'],39.3,0,[],0,1,['TerroristActivity 115'],2.3,NA,0,[],0,0,[],0
+7,62,4664.1,4708.5,6,1,['TerroristActivity 151'],298.6,2,['TerroristActivity 115'],34.7,3,['TerroristActivity 115' 'TerroristActivity 151'],3.4,TerroristActivity 115,0,[],0,0,[],0
+7,63,4708.5,4747,4,0,[],0,3,['TerroristActivity 151'],20.3,1,['TerroristActivity 151'],0.6,TerroristActivity 151,0,[],0,0,[],0
+7,64,4747,5051.2,35,4,"['TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 7'
+'TerroristActivity 93']",472.4,17,"['TerroristActivity 151' 'TerroristActivity 158' 'TerroristActivity 7'
+'TerroristActivity 93']",142.3,12,"['TerroristActivity 151' 'TerroristActivity 158' 'TerroristActivity 53'
+'TerroristActivity 7']",31.9,TerroristActivity 158,0,[],0,2,"['chemical evidence', 'chemical']",2
+7,65,5051.2,5060.2,3,2,['TerroristActivity 103' 'TerroristActivity 78'],17.4,1,['TerroristActivity 93'],0.8,0,[],0,TerroristActivity 93,0,[],0,0,[],0
+7,66,5060.2,5158,18,4,"['TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 53'
+'TerroristActivity 98']",107.5,9,"['TerroristActivity 103' 'TerroristActivity 53' 'TerroristActivity 93'
+'TerroristActivity 98']",33,4,"['TerroristActivity 158' 'TerroristActivity 53' 'TerroristActivity 7'
+'TerroristActivity 98']",5,TerroristActivity 98,0,[],0,1,['Eggleston'],1
+7,67,5158,5242.7,17,3,['TerroristActivity 158' 'TerroristActivity 52' 'TerroristActivity 7'],30.5,8,['TerroristActivity 158' 'TerroristActivity 7'],17.8,4,['TerroristActivity 158' 'TerroristActivity 7'],4.5,TerroristActivity 7,0,[],0,2,"['Citizens for the Ethical Treatment of Lab Mic', 'Brotherhood of Antarctica']",2
+7,68,5242.7,5305.5,7,3,['TerroristActivity 122' 'TerroristActivity 143' 'TerroristActivity 52'],56.6,2,['TerroristActivity 122'],32.9,1,['TerroristActivity 143'],0.8,TerroristActivity 122,0,[],0,1,['bomb'],1
+7,69,5305.5,5372.4,7,3,['TerroristActivity 115' 'TerroristActivity 133' 'TerroristActivity 73'],50.8,1,['TerroristActivity 73'],0.5,3,['TerroristActivity 143' 'TerroristActivity 73'],1.8,TerroristActivity 73,0,[],0,0,[],0
+7,70,5372.4,5394.3,4,1,['TerroristActivity 151'],58.3,1,['TerroristActivity 115'],0.5,2,['TerroristActivity 115' 'TerroristActivity 151'],2.1,TerroristActivity 115,0,[],0,0,[],0
+7,71,5394.3,5470.2,7,1,['TerroristActivity 78'],12.4,4,['TerroristActivity 151'],38.7,0,[],0,TerroristActivity 151,1,['Vastopolis airport'],1,1,['Loudermilk'],1
+7,72,5470.2,5485.4,1,1,['TerroristActivity 103'],75.5,0,[],0,0,[],0,NA,0,[],0,0,[],0
+8,1,0,3.2,2,1,['TerroristActivity 151'],14.6,0,[],0,0,[],0,NA,0,[],0,1,['suspicious'],1
+8,2,3.2,121.1,15,4,['TerroristActivity 151'],43.4,5,['TerroristActivity 151'],28.6,3,['TerroristActivity 151'],5.6,TerroristActivity 151,1,['Suspicious Turkey Found '],1,2,"['frozen turkey', 'turkey']",2
+8,3,121.1,221.7,16,2,['TerroristActivity 123' 'TerroristActivity 128'],53.3,5,['TerroristActivity 123'],9,3,['TerroristActivity 123' 'TerroristActivity 128'],5.3,TerroristActivity 123,1,['mass livestock deaths on April 1 '],1,5,"['suspicious', 'animal death', 'livestock', 'mass death']",5
+8,4,221.7,281.5,8,3,['TerroristActivity 128' 'TerroristActivity 80'],49.5,2,['TerroristActivity 128'],34.8,2,['TerroristActivity 128' 'TerroristActivity 80'],2.6,TerroristActivity 128,1,"[' raised the threat level around the country, including Vastopolis.']",1,0,[],0
+8,5,281.5,349.9,14,1,['TerroristActivity 59'],47.9,9,['TerroristActivity 80'],40.7,3,['TerroristActivity 59' 'TerroristActivity 80'],3.1,TerroristActivity 80,0,[],0,1,['bomb'],1
+8,6,349.9,694.2,64,11,"['TerroristActivity 122' 'TerroristActivity 150' 'TerroristActivity 157'
+'TerroristActivity 51' 'TerroristActivity 59' 'TerroristActivity 83'
+'TerroristActivity 93']",354.3,24,"['TerroristActivity 122' 'TerroristActivity 157' 'TerroristActivity 51'
+'TerroristActivity 59' 'TerroristActivity 83' 'TerroristActivity 93']",151.2,18,"['TerroristActivity 122' 'TerroristActivity 157' 'TerroristActivity 51'
+'TerroristActivity 59' 'TerroristActivity 83' 'TerroristActivity 93']",53.8,TerroristActivity 93,10,"[' April 03, 2011 ', 'airport security', 'killing nine people', 'A bomb exploded ', 'March 2011', ' the crash of a Antarctica Airlines jet.', 'Traces of a chemical residue that may have come from a bomb or a missile were found on wreckage fragments of the Antarctica Airlines flight,', 'May 05, 2011 ', 'Investigators seeking clues to the downing of the Antarctica Airlines flight ', 'April 29, 2011 ']",10,1,['airport'],1
+8,7,694.2,811.7,15,1,['TerroristActivity 137'],88.6,7,['TerroristActivity 51'],44.4,4,"['TerroristActivity 109' 'TerroristActivity 137' 'TerroristActivity 26'
+'TerroristActivity 51']",8.5,TerroristActivity 51,2,"['March 30, 2011 ', 't U.S. airports are required to meet minimum security standards ']",2,1,['food'],1
+8,8,811.7,904.6,10,1,['TerroristActivity 109'],1.8,6,['TerroristActivity 137'],51.3,3,['TerroristActivity 109' 'TerroristActivity 137'],3.2,TerroristActivity 137,0,[],0,0,[],0
+8,9,904.6,939.7,4,1,['TerroristActivity 144'],6.1,0,[],0,2,['TerroristActivity 144'],4.6,NA,0,[],0,1,['contamination'],1
+8,10,939.7,1017.9,5,1,['TerroristActivity 98'],161.6,0,[],0,1,['TerroristActivity 98'],2.7,NA,0,[],0,3,"['contaminate', 'exposion', 'explosion']",3
+8,11,1017.9,1082.5,12,0,[],0,7,['TerroristActivity 98'],32,0,[],0,TerroristActivity 98,3,"[' May 17, 2011 ', 'Explosions at Smogtown Chemical Plan', 's at Smogtown Chemical Plant']",3,2,"['chemical plant', 'smogtown']",2
+8,12,1082.5,1112,4,0,[],0,1,['TerroristActivity 98'],17.4,2,['TerroristActivity 2' 'TerroristActivity 53'],3.7,TerroristActivity 98,1,[' A consensus exists among local residents that the explosions were caused by some kind of terrorist act.'],1,0,[],0
+8,13,1112,1185.2,6,1,['TerroristActivity 53'],43,3,['TerroristActivity 98'],54.4,2,['TerroristActivity 53' 'TerroristActivity 98'],2.8,TerroristActivity 98,0,[],0,0,[],0
+8,14,1185.2,1307.5,18,2,['TerroristActivity 123' 'TerroristActivity 2'],57.1,9,['TerroristActivity 2' 'TerroristActivity 53'],46.5,4,['TerroristActivity 2' 'TerroristActivity 53' 'TerroristActivity 59'],8.5,TerroristActivity 53,3,"[' May 12, 2011 ', 'In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed.', 'In , two men with enough material to construct several explosive devices were apprehended before the devices were completed.']",3,0,[],0
+8,15,1307.5,1393.6,5,2,['TerroristActivity 100' 'TerroristActivity 123'],119.3,0,[],0,1,['TerroristActivity 100'],0.9,NA,1,"['April 14, 2011 ']",1,1,['livestock'],1
+8,16,1393.6,1424.9,2,0,[],0,0,[],0,1,['TerroristActivity 100'],2,NA,0,[],0,1,['poison'],1
+8,17,1424.9,1491.1,6,1,['TerroristActivity 32'],37,1,['TerroristActivity 32'],34.7,2,['TerroristActivity 32'],2.1,TerroristActivity 32,0,[],0,2,"['trespass', 'threat']",2
+8,18,1491.1,1507.8,2,1,['TerroristActivity 7'],56,0,[],0,1,['TerroristActivity 7'],1.5,NA,0,[],0,0,[],0
+8,19,1507.8,1610.5,12,1,['TerroristActivity 53'],17.2,3,['TerroristActivity 7'],50.3,1,['TerroristActivity 7'],0.6,TerroristActivity 7,3,"['Ethical Treatment of Lab Mice', 'connected to the Brotherhood of Antarctica', 'emails of a threatening nature to VastPress.']",3,4,"['brotherhood', 'brotherhood of antarctica', 'brotherhood ']",4
+8,20,1610.5,1650,5,2,['TerroristActivity 53'],1.2,0,[],0,1,['TerroristActivity 53'],1.4,NA,1,['Psychobrotherhood'],1,1,['psychobrotherhood'],1
+8,21,1650,1658.8,2,1,['TerroristActivity 154'],7.4,0,[],0,0,[],0,NA,0,[],0,1,['brotherhood'],1
+8,22,1658.8,1667.2,1,1,['TerroristActivity 153'],3.1,0,[],0,0,[],0,NA,0,[],0,0,[],0
+8,23,1667.2,1868,27,4,"['TerroristActivity 115' 'TerroristActivity 152' 'TerroristActivity 158'
+'TerroristActivity 159']",180.4,12,['TerroristActivity 115' 'TerroristActivity 159'],77.7,3,['TerroristActivity 115' 'TerroristActivity 83'],3.8,TerroristActivity 115,5,"['Paramurderers of Chaos', 'apprehended three people', 'expensive high-end workbenches along with stacks of Petri dishes', 'laboratory in the basement', 'Dread']",5,3,"['paramurderers', 'chaos', 'dread']",3
+8,24,1868,1942.5,10,1,['TerroristActivity 159'],45.9,4,['TerroristActivity 158'],35.7,2,['TerroristActivity 158' 'TerroristActivity 83'],3.6,TerroristActivity 158,2,"['VastPress has recently received numerous threatening emails', ' Network of Dread']",2,1,['dread'],1
+8,25,1942.5,1993.9,4,1,['TerroristActivity 158'],8,0,[],0,1,['TerroristActivity 159'],2.4,NA,2,"['Network of Dread.', 'Network of Dread. DHS officials said there was evidence that the target had been Washington. ']",2,0,[],0
+8,26,1993.9,2282.1,47,6,"['TerroristActivity 157' 'TerroristActivity 159' 'TerroristActivity 4'
+'TerroristActivity 52' 'TerroristActivity 68' 'TerroristActivity 90']",122.3,17,['TerroristActivity 4' 'TerroristActivity 68' 'TerroristActivity 90'],47.8,15,"['TerroristActivity 158' 'TerroristActivity 159' 'TerroristActivity 4'
+'TerroristActivity 52' 'TerroristActivity 68' 'TerroristActivity 84'
+'TerroristActivity 90']",35.9,TerroristActivity 68,7,"['May 2011', 'May 2011', 'May 16, 2011 ', 'Large Number of Weapons Found During Traffic Stop ', 'Cornertown', ' Samuel Stansbury', 'Network of Hate']",7,2,"['cornertown', 'network of hate']",2
+8,27,2282.1,2558.4,9,2,['TerroristActivity 78' 'TerroristActivity 88'],101.1,1,['TerroristActivity 78'],26,5,"['TerroristActivity 157' 'TerroristActivity 47' 'TerroristActivity 68'
+'TerroristActivity 78']",10.2,TerroristActivity 78,0,[],0,1,['suspect'],1
+8,28,2558.4,3541.6,23,4,"['TerroristActivity 26' 'TerroristActivity 53' 'TerroristActivity 78'
+'TerroristActivity 83']",982.7,8,['TerroristActivity 26' 'TerroristActivity 88'],88.6,7,"['TerroristActivity 23' 'TerroristActivity 53' 'TerroristActivity 76'
+'TerroristActivity 77' 'TerroristActivity 88']",17.5,TerroristActivity 88,4,"['Three retired military officers ', ""in Plot To Kill Bangladesh's Leader "", 'April 29, 2011', 'contaminating drinking water and food ']",4,0,[],0
+8,29,3541.6,3608.9,5,2,['TerroristActivity 152' 'TerroristActivity 90'],18.7,1,['TerroristActivity 152'],5.7,2,['TerroristActivity 26' 'TerroristActivity 78'],4.2,TerroristActivity 152,0,[],0,0,[],0
+8,30,3608.9,3625.6,1,1,['TerroristActivity 133'],39.9,0,[],0,0,[],0,NA,0,[],0,0,[],0
+8,31,3625.6,3891.4,54,7,['TerroristActivity 133' 'TerroristActivity 139' 'TerroristActivity 143'],241,20,['TerroristActivity 133' 'TerroristActivity 143'],116.4,19,"['TerroristActivity 128' 'TerroristActivity 133' 'TerroristActivity 143'
+'TerroristActivity 151' 'TerroristActivity 53' 'TerroristActivity 59'
+'TerroristActivity 7']",30.3,TerroristActivity 133,7,"[' truck bombing', ' April 26, 2011 ', 'U.S. Base Bombin', 'DUBAI, United Arab Emirates ', ' killed 19 U.S. servicemen in Saudi Arabia', 'March 29, 2011 ', 'Move U.S. Troops In Middle East to Secure Areas ']",7,1,['servicemen'],1
+8,32,3891.4,3931.1,6,0,[],0,3,['TerroristActivity 139'],20.2,1,['TerroristActivity 139'],2.3,TerroristActivity 139,0,[],0,2,"['arson', 'kindergarten']",2
+8,33,3931.1,3955.6,7,0,[],0,5,['TerroristActivity 139'],10,1,['TerroristActivity 139'],1,TerroristActivity 139,1,['horrific violence-'],1,0,[],0
+8,34,3955.6,4234.2,18,3,['TerroristActivity 26' 'TerroristActivity 80' 'TerroristActivity 83'],75.2,5,['TerroristActivity 139' 'TerroristActivity 80' 'TerroristActivity 83'],30.7,5,"['TerroristActivity 139' 'TerroristActivity 26' 'TerroristActivity 80'
+'TerroristActivity 83' 'TerroristActivity 85']",9,TerroristActivity 139,3,"['-the murder of 16 kindergarten children and their teacher in Dunblane, Scotland,', ' in March', 'the shooting and arson spree in Port Arthur, Tasmania, in April']",3,2,"['port arthur', 'mice']",2
+8,35,4234.2,4263.3,2,0,[],0,0,[],0,0,[],0,NA,0,[],0,2,"['lab', 'toxic']",2
+8,36,4263.3,4298,4,1,['TerroristActivity 4'],8.6,1,['TerroristActivity 4'],6.3,0,[],0,TerroristActivity 4,0,[],0,2,"['vastapolis', 'vastopolis']",2
+8,37,4298,4349.7,3,1,['TerroristActivity 78'],32.5,0,[],0,1,['TerroristActivity 78'],0.9,NA,0,[],0,1,['vastopolis death'],1
+8,38,4349.7,4784,31,5,['TerroristActivity 128' 'TerroristActivity 13' 'TerroristActivity 151'],183.4,8,['TerroristActivity 13' 'TerroristActivity 151' 'TerroristActivity 78'],91.4,11,"['TerroristActivity 109' 'TerroristActivity 128' 'TerroristActivity 13'
+'TerroristActivity 137' 'TerroristActivity 143' 'TerroristActivity 151'
+'TerroristActivity 7' 'TerroristActivity 78']",19.5,TerroristActivity 151,3,"[' May 14, 2011 ', 'Vastopolis airport', 'May 10, 2011 ']",3,4,"['trafficing', 'trafficking', 'traffic', 'launder']",4
+8,39,4784,4868.4,12,1,['TerroristActivity 26'],18.3,0,[],0,11,"['TerroristActivity 100' 'TerroristActivity 109' 'TerroristActivity 128'
+'TerroristActivity 137' 'TerroristActivity 158' 'TerroristActivity 159'
+'TerroristActivity 2' 'TerroristActivity 32' 'TerroristActivity 52'
+'TerroristActivity 7' 'TerroristActivity 88']",26.1,NA,0,[],0,0,[],0
+8,40,4868.4,5025.7,8,2,['TerroristActivity 53' 'TerroristActivity 98'],46.4,0,[],0,4,"['TerroristActivity 115' 'TerroristActivity 123' 'TerroristActivity 151'
+'TerroristActivity 26']",5.6,NA,2,"['May 01, 2011', 'several airlines']",2,0,[],0
+8,41,5025.7,5085.4,2,1,['TerroristActivity 115'],31.8,0,[],0,0,[],0,NA,1,"[' May 13, 2011 ']",1,0,[],0
