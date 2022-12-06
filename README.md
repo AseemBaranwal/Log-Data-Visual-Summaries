@@ -7,16 +7,16 @@ The project was implemented using Python, NLTK, Scikit-learn, stemming, lemmatiz
 ## Demonstration
 The project implementation is provided in the code with appropriate annotations. Further, we have created a video which we uploaded on youtube which shows a live demo of how the project works. In addition to this, the website is also hosted on the web. Please check it out for your reference.
 
-### Link to the Youtube Video : <a href="https://youtu.be/lAuq-sJX7rk"> Youtube Video Demonstration</a>
+### Link to the Youtube Video : <a href="https://youtu.be/lAuq-sJX7rk" target="_blank"> Youtube Video Demonstration</a>
 
-### Live project : <a href="https://visualizer.w3spaces.com/"> Live project Link</a>
+### Live project : <a href="https://visualizer.w3spaces.com/"  target="_blank"> Live project Link</a>
 
 <br><hr>
 
 ## Project Report and presentation
-The project report is also present along with this repository. The title is "Project_report.pdf". This is written while following the guidelines given by TVCG Journal papers. The templates can be found at given <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html"> link </a>. In addition to this, the project was presented in front of Dr. Eric Ragan and fellow peers and the presentation can be found in this repository as well under the title "Project Presentaion".
+The project report is also present along with this repository. The title is "Project_report.pdf". This is written while following the guidelines given by TVCG Journal papers. The templates can be found at given <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html"  target="_blank"> link </a>. In addition to this, the project was presented in front of Dr. Eric Ragan and fellow peers and the presentation can be found in this repository as well under the title "Project Presentaion".
 
 ## Code Collaboration and Development
 The code is also present on the Github platform and we'll be collaborating to improve and make changes as we learn new technologies along the way.
 
-### Code Repository : <a href="https://github.com/AseemBaranwal/Log-Data-Visual-Summaries"> Link to Github Repository</a>
+### Code Repository : <a href="https://github.com/AseemBaranwal/Log-Data-Visual-Summaries" target="_blank"> Link to Github Repository</a>
